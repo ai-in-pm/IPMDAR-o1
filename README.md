@@ -108,6 +108,9 @@ EMERGENCEAI_API_KEY="your-emergenceai-api-key"
    ```
    http://localhost:8888
    ```
+## Output
+![screencapture-127-0-0-1-8888-2025-03-04-01_02_29](https://github.com/user-attachments/assets/539c2c71-78d0-4acd-8c98-2473e511cacb)
+
 
 ### Troubleshooting
 
