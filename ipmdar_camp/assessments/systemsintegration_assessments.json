@@ -1,0 +1,61 @@
+{
+  "module_name": "Systems Integration Assessments",
+  "version": "1.0",
+  "assessment_questions": [
+    {
+      "question": "What is the primary data format structure used for IPMDAR submissions?",
+      "options": [
+        "XML",
+        "CSV",
+        "JSON",
+        "YAML"
+      ],
+      "correct_answer": "JSON",
+      "explanation": "JSON (JavaScript Object Notation) is the primary data format structure used for IPMDAR submissions, providing a flexible, hierarchical format for organizing program performance data."
+    },
+    {
+      "question": "Which integration pattern is most appropriate for processing large volumes of IPMDAR data asynchronously?",
+      "options": [
+        "Point-to-Point Integration",
+        "Message Queue Processing",
+        "Remote Procedure Calls",
+        "Database Replication"
+      ],
+      "correct_answer": "Message Queue Processing",
+      "explanation": "Message Queue Processing is the most appropriate integration pattern for handling large volumes of IPMDAR data asynchronously, allowing systems to process data at their own pace without blocking operations."
+    },
+    {
+      "question": "What should be synchronized between EVM and IPMDAR systems to ensure consistent performance reporting?",
+      "options": [
+        "Contractor personnel records",
+        "Performance Measurement Baseline (PMB)",
+        "Government oversight team structure",
+        "System architecture diagrams"
+      ],
+      "correct_answer": "Performance Measurement Baseline (PMB)",
+      "explanation": "The Performance Measurement Baseline (PMB) should be synchronized between EVM and IPMDAR systems to ensure that performance is measured and reported consistently against the same baseline."
+    },
+    {
+      "question": "Which of the following is NOT typically part of an IPMDAR data architecture?",
+      "options": [
+        "Data element definitions",
+        "Relationship mapping between WBS and OBS",
+        "Hardware infrastructure specifications",
+        "Data validation rules"
+      ],
+      "correct_answer": "Hardware infrastructure specifications",
+      "explanation": "Hardware infrastructure specifications are implementation details rather than part of the IPMDAR data architecture, which focuses on data structure, relationships, formats, and validation rules."
+    },
+    {
+      "question": "When designing system interfaces for IPMDAR, which approach provides the most flexibility for future changes?",
+      "options": [
+        "Tightly coupled point-to-point interfaces",
+        "Direct database connections between systems",
+        "Service-Oriented Architecture (SOA)",
+        "Manual data re-entry between systems"
+      ],
+      "correct_answer": "Service-Oriented Architecture (SOA)",
+      "explanation": "Service-Oriented Architecture (SOA) provides the most flexibility for future changes by creating modular, loosely-coupled services that can be modified independently without affecting the entire system."
+    }
+  ]
+}

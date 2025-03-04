@@ -1,0 +1,68 @@
+{
+  "module_name": "Compliance & Policy Fundamentals",
+  "version": "1.0",
+  "topics": [
+    {
+      "title": "DoDI 5000.02 Framework",
+      "content": "The Defense Acquisition System (DAS) is the management process by which the Department of Defense provides effective, affordable, and timely systems to the users. The DoDI 5000.02 establishes the framework for this process and specifically mandates IPMDAR for Acquisition Category (ACAT) I, IA, and II programs.",
+      "learning_objectives": [
+        "Understand the placement of IPMDAR within the DAS framework",
+        "Identify key requirements for ACAT I, IA, and II programs",
+        "Recognize the policy drivers behind IPMDAR implementation"
+      ]
+    },
+    {
+      "title": "IPMDAR Regulatory Compliance",
+      "content": "The Integrated Program Management Data and Analysis Report (IPMDAR) replaces the legacy Contract Performance Report (CPR) and the Integrated Master Schedule (IMS) Data Item Descriptions (DIDs). It defines standard formats and data requirements for reporting contract performance data and schedule information on Department of Defense (DoD) acquisition contracts.",
+      "learning_objectives": [
+        "Identify the core regulatory compliance requirements of IPMDAR",
+        "Understand the relationship between IPMDAR and legacy reporting requirements",
+        "Recognize statutory mandates versus regulatory guidance"
+      ]
+    },
+    {
+      "title": "Tailoring IPMDAR Requirements",
+      "content": "Tailoring is the process of adapting the IPMDAR requirements to match the specific needs and characteristics of individual acquisition programs. Effective tailoring balances the government's need for information with the contractor's cost of providing that information.",
+      "learning_objectives": [
+        "Understand the principles of appropriate IPMDAR tailoring",
+        "Identify opportunities for tailoring within policy constraints",
+        "Recognize when tailoring requires formal approval versus program-level decisions"
+      ]
+    }
+  ],
+  "assessment_questions": [
+    {
+      "question": "Which DoD Instruction establishes the framework that mandates IPMDAR for certain program categories?",
+      "options": [
+        "DoDI 4000.01",
+        "DoDI 5000.02",
+        "DoDI 5000.75",
+        "DoDI 8500.01"
+      ],
+      "correct_answer": "DoDI 5000.02",
+      "explanation": "DoDI 5000.02 establishes the management framework for the Defense Acquisition System and specifically mandates IPMDAR for ACAT I, IA, and II programs."
+    },
+    {
+      "question": "What legacy reporting requirements did the IPMDAR replace?",
+      "options": [
+        "Program Management Plan (PMP) and Risk Management Plan (RMP)",
+        "Work Breakdown Structure (WBS) and Organizational Breakdown Structure (OBS)",
+        "Contract Performance Report (CPR) and Integrated Master Schedule (IMS)",
+        "Acquisition Strategy (AS) and Test and Evaluation Master Plan (TEMP)"
+      ],
+      "correct_answer": "Contract Performance Report (CPR) and Integrated Master Schedule (IMS)",
+      "explanation": "The IPMDAR replaced the legacy Contract Performance Report (CPR) and the Integrated Master Schedule (IMS) Data Item Descriptions (DIDs)."
+    },
+    {
+      "question": "What is the primary purpose of tailoring IPMDAR requirements?",
+      "options": [
+        "To eliminate all reporting requirements for contractors",
+        "To balance the government's need for information with the contractor's cost of providing that information",
+        "To increase the complexity of reporting for better oversight",
+        "To standardize all reporting across all program types regardless of size"
+      ],
+      "correct_answer": "To balance the government's need for information with the contractor's cost of providing that information",
+      "explanation": "Effective tailoring balances the government's need for information with the contractor's cost of providing that information, ensuring appropriate oversight without undue burden."
+    }
+  ]
+}

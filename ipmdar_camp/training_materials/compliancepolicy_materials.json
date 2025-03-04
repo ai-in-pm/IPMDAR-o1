@@ -1,0 +1,42 @@
+{
+  "module_name": "Compliance & Policy Training Materials",
+  "version": "1.0",
+  "topics": [
+    {
+      "title": "IPMDAR Regulatory Framework",
+      "content": "The Integrated Program Management Data and Analysis Report (IPMDAR) is a contractual reporting requirement established by the Department of Defense (DoD) for major defense acquisition programs. It was implemented to standardize performance measurement reporting across DoD programs, replacing legacy reporting systems such as the Contract Performance Report (CPR) and Integrated Master Schedule (IMS).\n\nThe IPMDAR is mandated by DoDI 5000.02 for Acquisition Category (ACAT) I, IA, and II programs, with tailoring options available for smaller programs. The regulatory framework also includes requirements from the Federal Acquisition Regulation (FAR) and Defense Federal Acquisition Regulation Supplement (DFARS).",
+      "learning_objectives": [
+        "Understand the regulatory basis for IPMDAR requirements",
+        "Identify which program categories require IPMDAR implementation",
+        "Recognize the relationship between IPMDAR and predecessor reporting systems"
+      ]
+    },
+    {
+      "title": "IPMDAR Data Requirements",
+      "content": "The IPMDAR consists of several core components:\n\n1. Contract Performance Dataset (CPD): Contains earned value management data, including Work Breakdown Structure (WBS), Organizational Breakdown Structure (OBS), and control account data.\n\n2. Schedule Data: Includes the Integrated Master Schedule (IMS) with activities, milestones, and critical path information.\n\n3. Performance Narrative Report: Textual analysis and explanations of current performance, variances, and corrective actions.\n\n4. Contract Funds Status Report (CFSR): Information on funding requirements, expenditures, and forecasted needs.\n\nEach component has specific format requirements and data elements that must be included to ensure compliance with DoD policy.",
+      "learning_objectives": [
+        "Identify the core components of an IPMDAR submission",
+        "Understand the required data elements for each IPMDAR component",
+        "Recognize the relationships between different data components"
+      ]
+    },
+    {
+      "title": "IPMDAR Tailoring Guidelines",
+      "content": "Tailoring of IPMDAR requirements allows program managers to adjust reporting requirements based on program size, complexity, and risk profile. The IPMDAR Implementation Guide provides specific guidance on appropriate tailoring approaches.\n\nTailoring options include:\n\n1. Reporting frequency adjustments (monthly vs. quarterly)\n2. Format modifications for certain data components\n3. Waivers for specific elements based on program characteristics\n4. Alternative reporting approaches for specialized contracts\n\nAll tailoring decisions must balance the government's need for visibility with the cost and effort required to produce the reports. Tailoring must be documented and approved by the appropriate acquisition authorities.",
+      "learning_objectives": [
+        "Understand the principles of appropriate IPMDAR tailoring",
+        "Identify common tailoring approaches for different program types",
+        "Apply the correct process for obtaining tailoring approval"
+      ]
+    },
+    {
+      "title": "IPMDAR Compliance Verification",
+      "content": "Compliance with IPMDAR requirements is verified through several mechanisms:\n\n1. Data Validation: Automated validation of data formats and relationships\n2. Integrated Baseline Reviews (IBRs): Assessment of the performance measurement baseline\n3. Surveillance Reviews: Regular monitoring of contractor EVM systems\n4. Compliance Audits: Formal assessments conducted by DCMA or program offices\n\nNon-compliance can result in contractual actions, including withholding of payments or negative contractor performance assessments. The compliance verification process focuses on both technical format compliance and the substantive quality of performance data.",
+      "learning_objectives": [
+        "Understand the IPMDAR compliance verification process",
+        "Identify common compliance issues and their remediation",
+        "Recognize the consequences of non-compliance with IPMDAR requirements"
+      ]
+    }
+  ]
+}

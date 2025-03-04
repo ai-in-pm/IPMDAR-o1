@@ -1,0 +1,554 @@
+2025-03-03 22:22:37,062 - IPMDAR Training Module - WARNING - Training materials not found: ipmdar_camp/training_materials\compliancepolicy_materials.json. Using default materials.
+2025-03-03 22:22:37,063 - IPMDAR Training Module - WARNING - Assessment data not found: ipmdar_camp/assessments\compliancepolicy_assessments.json. Using default assessments.
+2025-03-03 22:22:37,063 - IPMDAR Training Module - WARNING - Training materials not found: ipmdar_camp/training_materials\dataanalytics_materials.json. Using default materials.
+2025-03-03 22:22:37,063 - IPMDAR Training Module - WARNING - Assessment data not found: ipmdar_camp/assessments\dataanalytics_assessments.json. Using default assessments.
+2025-03-03 22:22:37,063 - IPMDAR Training Module - WARNING - Training materials not found: ipmdar_camp/training_materials\projectmanagement_materials.json. Using default materials.
+2025-03-03 22:22:37,064 - IPMDAR Training Module - WARNING - Assessment data not found: ipmdar_camp/assessments\projectmanagement_assessments.json. Using default assessments.
+2025-03-03 22:22:37,064 - IPMDAR Training Module - WARNING - Training materials not found: ipmdar_camp/training_materials\riskforecasting_materials.json. Using default materials.
+2025-03-03 22:22:37,064 - IPMDAR Training Module - WARNING - Assessment data not found: ipmdar_camp/assessments\riskforecasting_assessments.json. Using default assessments.
+2025-03-03 22:22:37,065 - IPMDAR Training Module - WARNING - Training materials not found: ipmdar_camp/training_materials\systemsintegration_materials.json. Using default materials.
+2025-03-03 22:22:37,065 - IPMDAR Training Module - WARNING - Assessment data not found: ipmdar_camp/assessments\systemsintegration_assessments.json. Using default assessments.
+2025-03-03 22:22:37,065 - IPMDAR Training Module - WARNING - Training materials not found: ipmdar_camp/training_materials\implementationsupport_materials.json. Using default materials.
+2025-03-03 22:22:37,065 - IPMDAR Training Module - WARNING - Assessment data not found: ipmdar_camp/assessments\implementationsupport_assessments.json. Using default assessments.
+2025-03-03 22:22:37,065 - IPMDAR Training Camp - INFO - No existing certification records found
+2025-03-03 22:22:37,065 - IPMDAR Training Camp - INFO - Beginning training for Agent compliance (compliance_policy)...
+2025-03-03 22:22:37,065 - IPMDAR Training Camp - INFO - Starting core curriculum for Agent compliance (compliance_policy)
+2025-03-03 22:22:37,065 - IPMDAR Training Camp - INFO -   - Completing core module: ipmdar_fundamentals
+2025-03-03 22:22:37,566 - IPMDAR Training Camp - INFO -     Completed with score: 0.91
+2025-03-03 22:22:37,566 - IPMDAR Training Camp - INFO -   - Completing core module: dod_acquisition_framework
+2025-03-03 22:22:38,067 - IPMDAR Training Camp - INFO -     Completed with score: 0.98
+2025-03-03 22:22:38,067 - IPMDAR Training Camp - INFO -   - Completing core module: data_requirements_basics
+2025-03-03 22:22:38,567 - IPMDAR Training Camp - INFO -     Completed with score: 0.93
+2025-03-03 22:22:38,567 - IPMDAR Training Camp - INFO -   - Completing core module: regulatory_compliance_overview
+2025-03-03 22:22:39,068 - IPMDAR Training Camp - INFO -     Completed with score: 0.97
+2025-03-03 22:22:39,069 - IPMDAR Training Camp - INFO - Starting specialized curriculum for Agent compliance (compliance_policy)
+2025-03-03 22:22:39,069 - IPMDAR Training Camp - INFO -   - Completing specialized module: regulatory_frameworks_deep_dive
+2025-03-03 22:22:39,772 - IPMDAR Training Camp - INFO -     Completed with score: 0.86
+2025-03-03 22:22:39,772 - IPMDAR Training Camp - INFO -   - Completing specialized module: policy_interpretation_techniques
+2025-03-03 22:22:40,474 - IPMDAR Training Camp - INFO -     Completed with score: 0.89
+2025-03-03 22:22:40,474 - IPMDAR Training Camp - INFO -   - Completing specialized module: compliance_verification_methods
+2025-03-03 22:22:41,175 - IPMDAR Training Camp - INFO -     Completed with score: 0.99
+2025-03-03 22:22:41,175 - IPMDAR Training Camp - INFO -   - Completing specialized module: acquisition_regulations_mastery
+2025-03-03 22:22:41,876 - IPMDAR Training Camp - INFO -     Completed with score: 0.97
+2025-03-03 22:22:41,876 - IPMDAR Training Camp - INFO -   - Completing specialized module: cdrl_development_and_review
+2025-03-03 22:22:42,577 - IPMDAR Training Camp - INFO -     Completed with score: 0.99
+2025-03-03 22:22:42,577 - IPMDAR Training Camp - INFO - Starting cross-domain training for Agent compliance (compliance_policy)
+2025-03-03 22:22:42,577 - IPMDAR Training Camp - INFO -   - Completing cross-domain module: data_analytics:performance_metric_basics
+2025-03-03 22:22:43,178 - IPMDAR Training Camp - INFO -     Completed with score: 0.91
+2025-03-03 22:22:43,178 - IPMDAR Training Camp - INFO -   - Completing cross-domain module: project_management:tailoring_fundamentals
+2025-03-03 22:22:43,779 - IPMDAR Training Camp - INFO -     Completed with score: 0.89
+2025-03-03 22:22:43,779 - IPMDAR Training Camp - INFO -   - Completing cross-domain module: systems_integration:data_format_requirements
+2025-03-03 22:22:44,379 - IPMDAR Training Camp - INFO -     Completed with score: 0.94
+2025-03-03 22:22:44,379 - IPMDAR Training Camp - INFO - Conducting certification assessment for Agent compliance (compliance_policy)
+2025-03-03 22:22:45,380 - IPMDAR Training Camp - INFO -   - Assessment area 'knowledge_comprehension': 0.99
+2025-03-03 22:22:45,380 - IPMDAR Training Camp - INFO -   - Assessment area 'practical_application': 0.98
+2025-03-03 22:22:45,380 - IPMDAR Training Camp - INFO -   - Assessment area 'problem_solving': 0.93
+2025-03-03 22:22:45,380 - IPMDAR Training Camp - INFO -   - Assessment area 'adaptability': 0.91
+2025-03-03 22:22:45,380 - IPMDAR Training Camp - INFO -   - Assessment area 'cross_domain_understanding': 0.90
+2025-03-03 22:22:45,380 - IPMDAR Training Camp - INFO -   Assessment complete. Average score: 0.94
+2025-03-03 22:22:45,380 - IPMDAR Training Camp - INFO - Agent compliance (compliance_policy) successfully certified!
+2025-03-03 22:22:45,383 - IPMDAR Training Camp - INFO - Saved certification records for 1 agents
+2025-03-03 22:22:45,383 - IPMDAR Training Camp - INFO - Beginning training for Agent data_analytics (data_analytics)...
+2025-03-03 22:22:45,383 - IPMDAR Training Camp - INFO - Starting core curriculum for Agent data_analytics (data_analytics)
+2025-03-03 22:22:45,383 - IPMDAR Training Camp - INFO -   - Completing core module: ipmdar_fundamentals
+2025-03-03 22:22:45,884 - IPMDAR Training Camp - INFO -     Completed with score: 0.97
+2025-03-03 22:22:45,884 - IPMDAR Training Camp - INFO -   - Completing core module: dod_acquisition_framework
+2025-03-03 22:22:46,385 - IPMDAR Training Camp - INFO -     Completed with score: 0.98
+2025-03-03 22:22:46,385 - IPMDAR Training Camp - INFO -   - Completing core module: data_requirements_basics
+2025-03-03 22:22:46,885 - IPMDAR Training Camp - INFO -     Completed with score: 0.95
+2025-03-03 22:22:46,885 - IPMDAR Training Camp - INFO -   - Completing core module: regulatory_compliance_overview
+2025-03-03 22:22:47,386 - IPMDAR Training Camp - INFO -     Completed with score: 0.92
+2025-03-03 22:22:47,386 - IPMDAR Training Camp - INFO - Starting specialized curriculum for Agent data_analytics (data_analytics)
+2025-03-03 22:22:47,386 - IPMDAR Training Camp - INFO -   - Completing specialized module: evms_principles_and_practices
+2025-03-03 22:22:48,087 - IPMDAR Training Camp - INFO -     Completed with score: 1.00
+2025-03-03 22:22:48,087 - IPMDAR Training Camp - INFO -   - Completing specialized module: performance_metric_analysis
+2025-03-03 22:22:48,787 - IPMDAR Training Camp - INFO -     Completed with score: 0.98
+2025-03-03 22:22:48,787 - IPMDAR Training Camp - INFO -   - Completing specialized module: data_visualization_techniques
+2025-03-03 22:22:49,488 - IPMDAR Training Camp - INFO -     Completed with score: 0.99
+2025-03-03 22:22:49,488 - IPMDAR Training Camp - INFO -   - Completing specialized module: statistical_analysis_for_ipmdar
+2025-03-03 22:22:50,189 - IPMDAR Training Camp - INFO -     Completed with score: 0.99
+2025-03-03 22:22:50,189 - IPMDAR Training Camp - INFO -   - Completing specialized module: predictive_modeling_basics
+2025-03-03 22:22:50,890 - IPMDAR Training Camp - INFO -     Completed with score: 0.86
+2025-03-03 22:22:50,890 - IPMDAR Training Camp - INFO - Starting cross-domain training for Agent data_analytics (data_analytics)
+2025-03-03 22:22:50,890 - IPMDAR Training Camp - INFO -   - Completing cross-domain module: compliance_policy:reporting_requirements
+2025-03-03 22:22:51,491 - IPMDAR Training Camp - INFO -     Completed with score: 0.82
+2025-03-03 22:22:51,491 - IPMDAR Training Camp - INFO -   - Completing cross-domain module: risk_forecasting:risk_analysis_basics
+2025-03-03 22:22:52,091 - IPMDAR Training Camp - INFO -     Completed with score: 0.88
+2025-03-03 22:22:52,091 - IPMDAR Training Camp - INFO -   - Completing cross-domain module: project_management:schedule_fundamentals
+2025-03-03 22:22:52,692 - IPMDAR Training Camp - INFO -     Completed with score: 0.91
+2025-03-03 22:22:52,692 - IPMDAR Training Camp - INFO - Conducting certification assessment for Agent data_analytics (data_analytics)
+2025-03-03 22:22:53,692 - IPMDAR Training Camp - INFO -   - Assessment area 'knowledge_comprehension': 0.93
+2025-03-03 22:22:53,692 - IPMDAR Training Camp - INFO -   - Assessment area 'practical_application': 0.87
+2025-03-03 22:22:53,692 - IPMDAR Training Camp - INFO -   - Assessment area 'problem_solving': 0.94
+2025-03-03 22:22:53,692 - IPMDAR Training Camp - INFO -   - Assessment area 'adaptability': 0.89
+2025-03-03 22:22:53,692 - IPMDAR Training Camp - INFO -   - Assessment area 'cross_domain_understanding': 0.86
+2025-03-03 22:22:53,692 - IPMDAR Training Camp - INFO -   Assessment complete. Average score: 0.90
+2025-03-03 22:22:53,692 - IPMDAR Training Camp - INFO - Agent data_analytics (data_analytics) successfully certified!
+2025-03-03 22:22:53,696 - IPMDAR Training Camp - INFO - Saved certification records for 2 agents
+2025-03-03 22:22:53,697 - IPMDAR Training Camp - INFO - Beginning training for Agent project_management (project_management)...
+2025-03-03 22:22:53,697 - IPMDAR Training Camp - INFO - Starting core curriculum for Agent project_management (project_management)
+2025-03-03 22:22:53,697 - IPMDAR Training Camp - INFO -   - Completing core module: ipmdar_fundamentals
+2025-03-03 22:22:54,197 - IPMDAR Training Camp - INFO -     Completed with score: 0.92
+2025-03-03 22:22:54,197 - IPMDAR Training Camp - INFO -   - Completing core module: dod_acquisition_framework
+2025-03-03 22:22:54,698 - IPMDAR Training Camp - INFO -     Completed with score: 0.96
+2025-03-03 22:22:54,698 - IPMDAR Training Camp - INFO -   - Completing core module: data_requirements_basics
+2025-03-03 22:22:55,199 - IPMDAR Training Camp - INFO -     Completed with score: 0.97
+2025-03-03 22:22:55,199 - IPMDAR Training Camp - INFO -   - Completing core module: regulatory_compliance_overview
+2025-03-03 22:22:55,699 - IPMDAR Training Camp - INFO -     Completed with score: 0.92
+2025-03-03 22:22:55,699 - IPMDAR Training Camp - INFO - Starting specialized curriculum for Agent project_management (project_management)
+2025-03-03 22:22:55,699 - IPMDAR Training Camp - INFO -   - Completing specialized module: project_lifecycle_management
+2025-03-03 22:22:56,400 - IPMDAR Training Camp - INFO -     Completed with score: 0.97
+2025-03-03 22:22:56,400 - IPMDAR Training Camp - INFO -   - Completing specialized module: ipmdar_tailoring_strategies
+2025-03-03 22:22:57,101 - IPMDAR Training Camp - INFO -     Completed with score: 0.98
+2025-03-03 22:22:57,101 - IPMDAR Training Camp - INFO -   - Completing specialized module: wbs_development_and_management
+2025-03-03 22:22:57,801 - IPMDAR Training Camp - INFO -     Completed with score: 0.99
+2025-03-03 22:22:57,801 - IPMDAR Training Camp - INFO -   - Completing specialized module: schedule_integration_techniques
+2025-03-03 22:22:58,502 - IPMDAR Training Camp - INFO -     Completed with score: 0.89
+2025-03-03 22:22:58,502 - IPMDAR Training Camp - INFO -   - Completing specialized module: resource_management_best_practices
+2025-03-03 22:22:59,202 - IPMDAR Training Camp - INFO -     Completed with score: 0.87
+2025-03-03 22:22:59,202 - IPMDAR Training Camp - INFO - Starting cross-domain training for Agent project_management (project_management)
+2025-03-03 22:22:59,202 - IPMDAR Training Camp - INFO -   - Completing cross-domain module: compliance_policy:acquisition_requirements
+2025-03-03 22:22:59,803 - IPMDAR Training Camp - INFO -     Completed with score: 0.86
+2025-03-03 22:22:59,803 - IPMDAR Training Camp - INFO -   - Completing cross-domain module: risk_forecasting:risk_management_basics
+2025-03-03 22:23:00,403 - IPMDAR Training Camp - INFO -     Completed with score: 0.82
+2025-03-03 22:23:00,403 - IPMDAR Training Camp - INFO -   - Completing cross-domain module: implementation_support:stakeholder_engagement
+2025-03-03 22:23:01,004 - IPMDAR Training Camp - INFO -     Completed with score: 0.91
+2025-03-03 22:23:01,004 - IPMDAR Training Camp - INFO - Conducting certification assessment for Agent project_management (project_management)
+2025-03-03 22:23:02,005 - IPMDAR Training Camp - INFO -   - Assessment area 'knowledge_comprehension': 0.88
+2025-03-03 22:23:02,005 - IPMDAR Training Camp - INFO -   - Assessment area 'practical_application': 0.85
+2025-03-03 22:23:02,005 - IPMDAR Training Camp - INFO -   - Assessment area 'problem_solving': 0.88
+2025-03-03 22:23:02,005 - IPMDAR Training Camp - INFO -   - Assessment area 'adaptability': 0.89
+2025-03-03 22:23:02,005 - IPMDAR Training Camp - INFO -   - Assessment area 'cross_domain_understanding': 0.86
+2025-03-03 22:23:02,005 - IPMDAR Training Camp - INFO -   Assessment complete. Average score: 0.87
+2025-03-03 22:23:02,005 - IPMDAR Training Camp - INFO - Agent project_management (project_management) successfully certified!
+2025-03-03 22:23:02,009 - IPMDAR Training Camp - INFO - Saved certification records for 3 agents
+2025-03-03 22:23:02,009 - IPMDAR Training Camp - INFO - Beginning training for Agent risk_forecasting (risk_forecasting)...
+2025-03-03 22:23:02,009 - IPMDAR Training Camp - INFO - Starting core curriculum for Agent risk_forecasting (risk_forecasting)
+2025-03-03 22:23:02,009 - IPMDAR Training Camp - INFO -   - Completing core module: ipmdar_fundamentals
+2025-03-03 22:23:02,510 - IPMDAR Training Camp - INFO -     Completed with score: 0.97
+2025-03-03 22:23:02,510 - IPMDAR Training Camp - INFO -   - Completing core module: dod_acquisition_framework
+2025-03-03 22:23:03,011 - IPMDAR Training Camp - INFO -     Completed with score: 0.91
+2025-03-03 22:23:03,011 - IPMDAR Training Camp - INFO -   - Completing core module: data_requirements_basics
+2025-03-03 22:23:03,511 - IPMDAR Training Camp - INFO -     Completed with score: 1.00
+2025-03-03 22:23:03,511 - IPMDAR Training Camp - INFO -   - Completing core module: regulatory_compliance_overview
+2025-03-03 22:23:04,012 - IPMDAR Training Camp - INFO -     Completed with score: 0.91
+2025-03-03 22:23:04,012 - IPMDAR Training Camp - INFO - Starting specialized curriculum for Agent risk_forecasting (risk_forecasting)
+2025-03-03 22:23:04,013 - IPMDAR Training Camp - INFO -   - Completing specialized module: risk_identification_methods
+2025-03-03 22:23:04,713 - IPMDAR Training Camp - INFO -     Completed with score: 0.94
+2025-03-03 22:23:04,713 - IPMDAR Training Camp - INFO -   - Completing specialized module: quantitative_risk_analysis
+2025-03-03 22:23:05,414 - IPMDAR Training Camp - INFO -     Completed with score: 0.86
+2025-03-03 22:23:05,414 - IPMDAR Training Camp - INFO -   - Completing specialized module: forecasting_techniques
+2025-03-03 22:23:06,114 - IPMDAR Training Camp - INFO -     Completed with score: 0.94
+2025-03-03 22:23:06,114 - IPMDAR Training Camp - INFO -   - Completing specialized module: eac_etc_calculation_methods
+2025-03-03 22:23:06,815 - IPMDAR Training Camp - INFO -     Completed with score: 0.98
+2025-03-03 22:23:06,815 - IPMDAR Training Camp - INFO -   - Completing specialized module: monte_carlo_simulation_basics
+2025-03-03 22:23:07,516 - IPMDAR Training Camp - INFO -     Completed with score: 0.97
+2025-03-03 22:23:07,516 - IPMDAR Training Camp - INFO - Starting cross-domain training for Agent risk_forecasting (risk_forecasting)
+2025-03-03 22:23:07,516 - IPMDAR Training Camp - INFO -   - Completing cross-domain module: data_analytics:statistical_foundations
+2025-03-03 22:23:08,117 - IPMDAR Training Camp - INFO -     Completed with score: 0.82
+2025-03-03 22:23:08,117 - IPMDAR Training Camp - INFO -   - Completing cross-domain module: project_management:critical_path_analysis
+2025-03-03 22:23:08,717 - IPMDAR Training Camp - INFO -     Completed with score: 0.90
+2025-03-03 22:23:08,717 - IPMDAR Training Camp - INFO -   - Completing cross-domain module: compliance_policy:contract_types_and_risks
+2025-03-03 22:23:09,318 - IPMDAR Training Camp - INFO -     Completed with score: 0.87
+2025-03-03 22:23:09,318 - IPMDAR Training Camp - INFO - Conducting certification assessment for Agent risk_forecasting (risk_forecasting)
+2025-03-03 22:23:10,319 - IPMDAR Training Camp - INFO -   - Assessment area 'knowledge_comprehension': 0.92
+2025-03-03 22:23:10,319 - IPMDAR Training Camp - INFO -   - Assessment area 'practical_application': 0.97
+2025-03-03 22:23:10,319 - IPMDAR Training Camp - INFO -   - Assessment area 'problem_solving': 0.85
+2025-03-03 22:23:10,319 - IPMDAR Training Camp - INFO -   - Assessment area 'adaptability': 0.94
+2025-03-03 22:23:10,319 - IPMDAR Training Camp - INFO -   - Assessment area 'cross_domain_understanding': 0.99
+2025-03-03 22:23:10,319 - IPMDAR Training Camp - INFO -   Assessment complete. Average score: 0.94
+2025-03-03 22:23:10,319 - IPMDAR Training Camp - INFO - Agent risk_forecasting (risk_forecasting) successfully certified!
+2025-03-03 22:23:10,322 - IPMDAR Training Camp - INFO - Saved certification records for 4 agents
+2025-03-03 22:23:10,323 - IPMDAR Training Camp - INFO - Beginning training for Agent systems_integration (systems_integration)...
+2025-03-03 22:23:10,323 - IPMDAR Training Camp - INFO - Starting core curriculum for Agent systems_integration (systems_integration)
+2025-03-03 22:23:10,323 - IPMDAR Training Camp - INFO -   - Completing core module: ipmdar_fundamentals
+2025-03-03 22:23:10,824 - IPMDAR Training Camp - INFO -     Completed with score: 0.96
+2025-03-03 22:23:10,824 - IPMDAR Training Camp - INFO -   - Completing core module: dod_acquisition_framework
+2025-03-03 22:23:11,324 - IPMDAR Training Camp - INFO -     Completed with score: 0.97
+2025-03-03 22:23:11,324 - IPMDAR Training Camp - INFO -   - Completing core module: data_requirements_basics
+2025-03-03 22:23:11,825 - IPMDAR Training Camp - INFO -     Completed with score: 0.94
+2025-03-03 22:23:11,825 - IPMDAR Training Camp - INFO -   - Completing core module: regulatory_compliance_overview
+2025-03-03 22:23:12,326 - IPMDAR Training Camp - INFO -     Completed with score: 0.96
+2025-03-03 22:23:12,326 - IPMDAR Training Camp - INFO - Starting specialized curriculum for Agent systems_integration (systems_integration)
+2025-03-03 22:23:12,326 - IPMDAR Training Camp - INFO -   - Completing specialized module: data_schemas_and_formats
+2025-03-03 22:23:13,026 - IPMDAR Training Camp - INFO -     Completed with score: 0.92
+2025-03-03 22:23:13,026 - IPMDAR Training Camp - INFO -   - Completing specialized module: system_interoperability_standards
+2025-03-03 22:23:13,727 - IPMDAR Training Camp - INFO -     Completed with score: 0.93
+2025-03-03 22:23:13,727 - IPMDAR Training Camp - INFO -   - Completing specialized module: integration_architecture_design
+2025-03-03 22:23:14,428 - IPMDAR Training Camp - INFO -     Completed with score: 0.96
+2025-03-03 22:23:14,428 - IPMDAR Training Camp - INFO -   - Completing specialized module: automated_data_validation
+2025-03-03 22:23:15,128 - IPMDAR Training Camp - INFO -     Completed with score: 0.85
+2025-03-03 22:23:15,128 - IPMDAR Training Camp - INFO -   - Completing specialized module: legacy_system_integration
+2025-03-03 22:23:15,829 - IPMDAR Training Camp - INFO -     Completed with score: 0.94
+2025-03-03 22:23:15,829 - IPMDAR Training Camp - INFO - Starting cross-domain training for Agent systems_integration (systems_integration)
+2025-03-03 22:23:15,829 - IPMDAR Training Camp - INFO -   - Completing cross-domain module: data_analytics:data_structure_fundamentals
+2025-03-03 22:23:16,430 - IPMDAR Training Camp - INFO -     Completed with score: 0.85
+2025-03-03 22:23:16,430 - IPMDAR Training Camp - INFO -   - Completing cross-domain module: implementation_support:system_deployment_basics
+2025-03-03 22:23:17,030 - IPMDAR Training Camp - INFO -     Completed with score: 0.83
+2025-03-03 22:23:17,030 - IPMDAR Training Camp - INFO -   - Completing cross-domain module: compliance_policy:data_security_requirements
+2025-03-03 22:23:17,631 - IPMDAR Training Camp - INFO -     Completed with score: 0.83
+2025-03-03 22:23:17,631 - IPMDAR Training Camp - INFO - Conducting certification assessment for Agent systems_integration (systems_integration)
+2025-03-03 22:23:18,631 - IPMDAR Training Camp - INFO -   - Assessment area 'knowledge_comprehension': 0.97
+2025-03-03 22:23:18,631 - IPMDAR Training Camp - INFO -   - Assessment area 'practical_application': 0.93
+2025-03-03 22:23:18,631 - IPMDAR Training Camp - INFO -   - Assessment area 'problem_solving': 0.94
+2025-03-03 22:23:18,631 - IPMDAR Training Camp - INFO -   - Assessment area 'adaptability': 0.99
+2025-03-03 22:23:18,631 - IPMDAR Training Camp - INFO -   - Assessment area 'cross_domain_understanding': 0.95
+2025-03-03 22:23:18,631 - IPMDAR Training Camp - INFO -   Assessment complete. Average score: 0.95
+2025-03-03 22:23:18,631 - IPMDAR Training Camp - INFO - Agent systems_integration (systems_integration) successfully certified!
+2025-03-03 22:23:18,635 - IPMDAR Training Camp - INFO - Saved certification records for 5 agents
+2025-03-03 22:23:18,635 - IPMDAR Training Camp - INFO - Beginning training for Agent implementation_support (implementation_support)...
+2025-03-03 22:23:18,635 - IPMDAR Training Camp - INFO - Starting core curriculum for Agent implementation_support (implementation_support)
+2025-03-03 22:23:18,635 - IPMDAR Training Camp - INFO -   - Completing core module: ipmdar_fundamentals
+2025-03-03 22:23:19,137 - IPMDAR Training Camp - INFO -     Completed with score: 0.93
+2025-03-03 22:23:19,137 - IPMDAR Training Camp - INFO -   - Completing core module: dod_acquisition_framework
+2025-03-03 22:23:19,637 - IPMDAR Training Camp - INFO -     Completed with score: 0.93
+2025-03-03 22:23:19,637 - IPMDAR Training Camp - INFO -   - Completing core module: data_requirements_basics
+2025-03-03 22:23:20,138 - IPMDAR Training Camp - INFO -     Completed with score: 0.99
+2025-03-03 22:23:20,138 - IPMDAR Training Camp - INFO -   - Completing core module: regulatory_compliance_overview
+2025-03-03 22:23:20,639 - IPMDAR Training Camp - INFO -     Completed with score: 0.98
+2025-03-03 22:23:20,639 - IPMDAR Training Camp - INFO - Starting specialized curriculum for Agent implementation_support (implementation_support)
+2025-03-03 22:23:20,639 - IPMDAR Training Camp - INFO -   - Completing specialized module: change_management_strategies
+2025-03-03 22:23:21,340 - IPMDAR Training Camp - INFO -     Completed with score: 0.98
+2025-03-03 22:23:21,340 - IPMDAR Training Camp - INFO -   - Completing specialized module: training_program_development
+2025-03-03 22:23:22,040 - IPMDAR Training Camp - INFO -     Completed with score: 0.95
+2025-03-03 22:23:22,040 - IPMDAR Training Camp - INFO -   - Completing specialized module: process_documentation_techniques
+2025-03-03 22:23:22,741 - IPMDAR Training Camp - INFO -     Completed with score: 0.89
+2025-03-03 22:23:22,741 - IPMDAR Training Camp - INFO -   - Completing specialized module: stakeholder_communication
+2025-03-03 22:23:23,442 - IPMDAR Training Camp - INFO -     Completed with score: 0.89
+2025-03-03 22:23:23,442 - IPMDAR Training Camp - INFO -   - Completing specialized module: implementation_roadmap_design
+2025-03-03 22:23:24,143 - IPMDAR Training Camp - INFO -     Completed with score: 0.86
+2025-03-03 22:23:24,143 - IPMDAR Training Camp - INFO - Starting cross-domain training for Agent implementation_support (implementation_support)
+2025-03-03 22:23:24,143 - IPMDAR Training Camp - INFO -   - Completing cross-domain module: project_management:implementation_planning
+2025-03-03 22:23:24,743 - IPMDAR Training Camp - INFO -     Completed with score: 0.87
+2025-03-03 22:23:24,743 - IPMDAR Training Camp - INFO -   - Completing cross-domain module: systems_integration:user_interface_basics
+2025-03-03 22:23:25,344 - IPMDAR Training Camp - INFO -     Completed with score: 0.93
+2025-03-03 22:23:25,344 - IPMDAR Training Camp - INFO -   - Completing cross-domain module: compliance_policy:training_requirements
+2025-03-03 22:23:25,944 - IPMDAR Training Camp - INFO -     Completed with score: 0.89
+2025-03-03 22:23:25,944 - IPMDAR Training Camp - INFO - Conducting certification assessment for Agent implementation_support (implementation_support)
+2025-03-03 22:23:26,945 - IPMDAR Training Camp - INFO -   - Assessment area 'knowledge_comprehension': 0.98
+2025-03-03 22:23:26,945 - IPMDAR Training Camp - INFO -   - Assessment area 'practical_application': 0.86
+2025-03-03 22:23:26,946 - IPMDAR Training Camp - INFO -   - Assessment area 'problem_solving': 0.94
+2025-03-03 22:23:26,946 - IPMDAR Training Camp - INFO -   - Assessment area 'adaptability': 0.89
+2025-03-03 22:23:26,946 - IPMDAR Training Camp - INFO -   - Assessment area 'cross_domain_understanding': 0.94
+2025-03-03 22:23:26,946 - IPMDAR Training Camp - INFO -   Assessment complete. Average score: 0.92
+2025-03-03 22:23:26,946 - IPMDAR Training Camp - INFO - Agent implementation_support (implementation_support) successfully certified!
+2025-03-03 22:23:26,952 - IPMDAR Training Camp - INFO - Saved certification records for 6 agents
+2025-03-03 22:29:10,266 - IPMDAR Training Module - WARNING - Training materials not found: ipmdar_camp/training_materials\compliancepolicy_materials.json. Using default materials.
+2025-03-03 22:29:10,267 - IPMDAR Training Module - WARNING - Assessment data not found: ipmdar_camp/assessments\compliancepolicy_assessments.json. Using default assessments.
+2025-03-03 22:29:10,267 - IPMDAR Training Module - WARNING - Training materials not found: ipmdar_camp/training_materials\dataanalytics_materials.json. Using default materials.
+2025-03-03 22:29:10,267 - IPMDAR Training Module - WARNING - Assessment data not found: ipmdar_camp/assessments\dataanalytics_assessments.json. Using default assessments.
+2025-03-03 22:29:10,267 - IPMDAR Training Module - WARNING - Training materials not found: ipmdar_camp/training_materials\projectmanagement_materials.json. Using default materials.
+2025-03-03 22:29:10,267 - IPMDAR Training Module - WARNING - Assessment data not found: ipmdar_camp/assessments\projectmanagement_assessments.json. Using default assessments.
+2025-03-03 22:29:10,267 - IPMDAR Training Module - WARNING - Training materials not found: ipmdar_camp/training_materials\riskforecasting_materials.json. Using default materials.
+2025-03-03 22:29:10,267 - IPMDAR Training Module - WARNING - Assessment data not found: ipmdar_camp/assessments\riskforecasting_assessments.json. Using default assessments.
+2025-03-03 22:29:10,267 - IPMDAR Training Module - WARNING - Training materials not found: ipmdar_camp/training_materials\systemsintegration_materials.json. Using default materials.
+2025-03-03 22:29:10,267 - IPMDAR Training Module - WARNING - Assessment data not found: ipmdar_camp/assessments\systemsintegration_assessments.json. Using default assessments.
+2025-03-03 22:29:10,267 - IPMDAR Training Module - WARNING - Training materials not found: ipmdar_camp/training_materials\implementationsupport_materials.json. Using default materials.
+2025-03-03 22:29:10,267 - IPMDAR Training Module - WARNING - Assessment data not found: ipmdar_camp/assessments\implementationsupport_assessments.json. Using default assessments.
+2025-03-03 22:29:10,269 - IPMDAR Training Camp - INFO - Loaded existing certification records for 6 agents
+2025-03-03 22:30:27,281 - IPMDAR Training Module - WARNING - Training materials not found: ipmdar_camp/training_materials\dataanalytics_materials.json. Using default materials.
+2025-03-03 22:30:27,283 - IPMDAR Training Module - WARNING - Assessment data not found: ipmdar_camp/assessments\dataanalytics_assessments.json. Using default assessments.
+2025-03-03 22:30:27,283 - IPMDAR Training Module - WARNING - Training materials not found: ipmdar_camp/training_materials\projectmanagement_materials.json. Using default materials.
+2025-03-03 22:30:27,283 - IPMDAR Training Module - WARNING - Assessment data not found: ipmdar_camp/assessments\projectmanagement_assessments.json. Using default assessments.
+2025-03-03 22:30:27,283 - IPMDAR Training Module - WARNING - Training materials not found: ipmdar_camp/training_materials\systemsintegration_materials.json. Using default materials.
+2025-03-03 22:30:27,285 - IPMDAR Training Module - WARNING - Assessment data not found: ipmdar_camp/assessments\systemsintegration_assessments.json. Using default assessments.
+2025-03-03 22:30:27,285 - IPMDAR Training Module - WARNING - Training materials not found: ipmdar_camp/training_materials\implementationsupport_materials.json. Using default materials.
+2025-03-03 22:30:27,285 - IPMDAR Training Module - WARNING - Assessment data not found: ipmdar_camp/assessments\implementationsupport_assessments.json. Using default assessments.
+2025-03-03 22:30:27,285 - IPMDAR Training Camp - INFO - Loaded existing certification records for 6 agents
+2025-03-03 22:31:06,102 - IPMDAR Training Module - WARNING - Training materials not found: ipmdar_camp/training_materials\dataanalytics_materials.json. Using default materials.
+2025-03-03 22:31:06,104 - IPMDAR Training Module - WARNING - Assessment data not found: ipmdar_camp/assessments\dataanalytics_assessments.json. Using default assessments.
+2025-03-03 22:31:06,104 - IPMDAR Training Module - WARNING - Training materials not found: ipmdar_camp/training_materials\projectmanagement_materials.json. Using default materials.
+2025-03-03 22:31:06,104 - IPMDAR Training Module - WARNING - Assessment data not found: ipmdar_camp/assessments\projectmanagement_assessments.json. Using default assessments.
+2025-03-03 22:31:06,105 - IPMDAR Training Module - WARNING - Training materials not found: ipmdar_camp/training_materials\systemsintegration_materials.json. Using default materials.
+2025-03-03 22:31:06,105 - IPMDAR Training Module - WARNING - Assessment data not found: ipmdar_camp/assessments\systemsintegration_assessments.json. Using default assessments.
+2025-03-03 22:31:06,105 - IPMDAR Training Module - WARNING - Training materials not found: ipmdar_camp/training_materials\implementationsupport_materials.json. Using default materials.
+2025-03-03 22:31:06,106 - IPMDAR Training Module - WARNING - Assessment data not found: ipmdar_camp/assessments\implementationsupport_assessments.json. Using default assessments.
+2025-03-03 22:31:06,106 - IPMDAR Training Camp - INFO - Loaded existing certification records for 6 agents
+2025-03-03 22:34:11,161 - IPMDAR Training Camp - INFO - Loaded existing certification records for 6 agents
+2025-03-03 22:34:30,833 - IPMDAR Training Camp - INFO - Loaded existing certification records for 6 agents
+2025-03-03 22:35:20,470 - IPMDAR Training Camp - INFO - Loaded existing certification records for 6 agents
+2025-03-03 22:36:39,456 - IPMDAR Training Camp - INFO - Loaded existing certification records for 6 agents
+2025-03-03 22:36:39,475 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8888
+2025-03-03 22:36:39,475 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-03 22:36:39,480 - werkzeug - INFO -  * Restarting with stat
+2025-03-03 22:36:43,402 - IPMDAR Training Camp - INFO - Loaded existing certification records for 6 agents
+2025-03-03 22:36:43,412 - werkzeug - WARNING -  * Debugger is active!
+2025-03-03 22:36:43,419 - werkzeug - INFO -  * Debugger PIN: 951-530-005
+2025-03-03 22:39:09,736 - IPMDAR Training Camp - INFO - Loaded existing certification records for 6 agents
+2025-03-03 22:39:09,764 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8888
+2025-03-03 22:39:09,764 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-03 22:39:09,766 - werkzeug - INFO -  * Restarting with stat
+2025-03-03 22:39:13,173 - IPMDAR Training Camp - INFO - Loaded existing certification records for 6 agents
+2025-03-03 22:39:13,182 - werkzeug - WARNING -  * Debugger is active!
+2025-03-03 22:39:13,191 - werkzeug - INFO -  * Debugger PIN: 951-530-005
+2025-03-03 22:39:20,075 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 22:39:20] "GET / HTTP/1.1" 200 -
+2025-03-03 22:39:20,233 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 22:39:20] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-03-03 22:39:20,281 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 22:39:20] "GET /static/js/main.js HTTP/1.1" 200 -
+2025-03-03 22:39:20,319 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 22:39:20] "GET /api/training/status HTTP/1.1" 200 -
+2025-03-03 22:39:20,923 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 22:39:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-03 22:39:47,758 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 22:39:47] "POST /api/query HTTP/1.1" 200 -
+2025-03-03 22:42:09,299 - werkzeug - INFO -  * Detected change in 'D:\\IPMDAR-o1\\agents\\base_agent.py', reloading
+2025-03-03 22:45:31,505 - IPMDAR Training Camp - INFO - Loaded existing certification records for 6 agents
+2025-03-03 22:45:31,534 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8888
+2025-03-03 22:45:31,534 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-03 22:45:31,538 - werkzeug - INFO -  * Restarting with stat
+2025-03-03 22:45:37,926 - IPMDAR Training Camp - INFO - Loaded existing certification records for 6 agents
+2025-03-03 22:45:37,956 - werkzeug - WARNING -  * Debugger is active!
+2025-03-03 22:45:37,981 - werkzeug - INFO -  * Debugger PIN: 951-530-005
+2025-03-03 22:48:44,890 - IPMDAR Training Camp - INFO - Loaded existing certification records for 6 agents
+2025-03-03 22:48:44,921 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8888
+2025-03-03 22:48:44,922 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-03 22:48:44,925 - werkzeug - INFO -  * Restarting with stat
+2025-03-03 22:48:49,184 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 22:48:49] "GET / HTTP/1.1" 200 -
+2025-03-03 22:48:49,456 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 22:48:49] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-03-03 22:48:49,663 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 22:48:49] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-03-03 22:48:49,684 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 22:48:49] "GET /api/training/status HTTP/1.1" 200 -
+2025-03-03 22:48:53,223 - IPMDAR Training Camp - INFO - Loaded existing certification records for 6 agents
+2025-03-03 22:48:53,240 - werkzeug - WARNING -  * Debugger is active!
+2025-03-03 22:48:53,252 - werkzeug - INFO -  * Debugger PIN: 951-530-005
+2025-03-03 22:49:36,376 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/complete "HTTP/1.1 200 OK"
+2025-03-03 22:49:44,219 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 22:49:44] "POST /api/query HTTP/1.1" 200 -
+2025-03-03 22:55:38,178 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 22:55:38] "GET / HTTP/1.1" 200 -
+2025-03-03 22:55:38,256 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 22:55:38] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-03-03 22:55:38,328 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 22:55:38] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-03-03 22:55:38,383 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 22:55:38] "GET /api/training/status HTTP/1.1" 200 -
+2025-03-03 22:57:07,016 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 22:57:07] "GET / HTTP/1.1" 200 -
+2025-03-03 22:57:07,093 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 22:57:07] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-03-03 22:57:07,128 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 22:57:07] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-03-03 22:57:07,147 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 22:57:07] "GET /api/training/status HTTP/1.1" 200 -
+2025-03-03 22:58:20,964 - werkzeug - INFO -  * Detected change in 'D:\\IPMDAR-o1\\app.py', reloading
+2025-03-03 23:12:07,224 - IPMDAR Training Camp - INFO - Loaded existing certification records for 6 agents
+2025-03-03 23:12:07,381 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8888
+2025-03-03 23:12:07,383 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-03 23:12:07,393 - werkzeug - INFO -  * Restarting with stat
+2025-03-03 23:12:58,513 - IPMDAR Training Camp - INFO - Loaded existing certification records for 6 agents
+2025-03-03 23:12:58,590 - werkzeug - WARNING -  * Debugger is active!
+2025-03-03 23:12:58,668 - werkzeug - INFO -  * Debugger PIN: 951-530-005
+2025-03-03 23:14:08,594 - IPMDAR Training Camp - INFO - Loaded existing certification records for 6 agents
+2025-03-03 23:14:09,277 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8888
+2025-03-03 23:14:09,279 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-03 23:14:09,746 - werkzeug - INFO -  * Restarting with stat
+2025-03-03 23:14:20,660 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 23:14:20] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-03-03 23:14:22,580 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 23:14:22] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-03-03 23:14:22,647 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 23:14:22] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-03-03 23:14:27,346 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 23:14:27] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=fNx8satn8EIoZHiVg39j HTTP/1.1" 200 -
+2025-03-03 23:14:36,852 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 23:14:36] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-03-03 23:14:59,143 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 23:14:59] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-03-03 23:14:59,278 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 23:14:59] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-03-03 23:14:59,300 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 23:14:59] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-03-03 23:14:59,478 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 23:14:59] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=fNx8satn8EIoZHiVg39j HTTP/1.1[0m" 304 -
+2025-03-03 23:15:01,522 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 23:15:01] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-03-03 23:17:31,813 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 23:17:31] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-03-03 23:17:31,937 - werkzeug - ERROR - Error on request:
+Traceback (most recent call last):
+  File "C:\Users\djjme\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\debug\__init__.py", line 343, in debug_application
+    app_iter = self.app(environ, start_response)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\djjme\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 2213, in __call__
+    return self.wsgi_app(environ, start_response)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\djjme\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 2193, in wsgi_app
+    response = self.handle_exception(e)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\djjme\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\djjme\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\djjme\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\djjme\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\djjme\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\djjme\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\IPMDAR-o1\app.py", line 79, in index
+    return render_template('index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\djjme\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\templating.py", line 150, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\djjme\AppData\Local\Programs\Python\Python311\Lib\site-packages\jinja2\environment.py", line 1087, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\djjme\AppData\Local\Programs\Python\Python311\Lib\site-packages\jinja2\environment.py", line 1016, in get_template
+    return self._load_template(name, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\djjme\AppData\Local\Programs\Python\Python311\Lib\site-packages\jinja2\environment.py", line 975, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\djjme\AppData\Local\Programs\Python\Python311\Lib\site-packages\jinja2\loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\djjme\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\templating.py", line 64, in get_source
+    return self._get_source_fast(environment, template)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\djjme\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\templating.py", line 98, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: index.html
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\djjme\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\serving.py", line 370, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\djjme\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\serving.py", line 333, in execute
+    for data in application_iter:
+  File "C:\Users\djjme\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\debug\__init__.py", line 378, in debug_application
+    environ["wsgi.errors"].write("".join(tb.render_traceback_text()))
+OSError: [Errno 22] Invalid argument
+2025-03-03 23:17:32,066 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 23:17:32] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-03-03 23:17:32,130 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 23:17:32] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-03-03 23:17:32,261 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 23:17:32] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=fNx8satn8EIoZHiVg39j HTTP/1.1[0m" 304 -
+2025-03-03 23:17:43,875 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 23:17:43] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-03-03 23:20:01,408 - IPMDAR Training Camp - INFO - Loaded existing certification records for 6 agents
+2025-03-03 23:20:02,782 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8888
+2025-03-03 23:20:02,784 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-03 23:20:03,143 - werkzeug - INFO -  * Restarting with stat
+2025-03-03 23:21:05,425 - IPMDAR Training Camp - INFO - Loaded existing certification records for 6 agents
+2025-03-03 23:21:05,622 - werkzeug - WARNING -  * Debugger is active!
+2025-03-03 23:21:05,743 - werkzeug - INFO -  * Debugger PIN: 951-530-005
+2025-03-03 23:26:14,443 - IPMDAR Training Camp - INFO - Loaded existing certification records for 6 agents
+2025-03-03 23:26:14,465 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8888
+2025-03-03 23:26:14,465 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-03 23:26:14,467 - werkzeug - INFO -  * Restarting with stat
+2025-03-03 23:26:18,501 - IPMDAR Training Camp - INFO - Loaded existing certification records for 6 agents
+2025-03-03 23:26:18,511 - werkzeug - WARNING -  * Debugger is active!
+2025-03-03 23:26:18,520 - werkzeug - INFO -  * Debugger PIN: 951-530-005
+2025-03-03 23:26:21,524 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 23:26:21] "GET / HTTP/1.1" 200 -
+2025-03-03 23:26:21,573 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 23:26:21] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-03-03 23:26:21,594 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 23:26:21] "GET /static/js/main.js HTTP/1.1" 200 -
+2025-03-03 23:26:21,847 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 23:26:21] "GET /api/training/status HTTP/1.1" 200 -
+2025-03-03 23:26:53,481 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 23:26:53] "GET / HTTP/1.1" 200 -
+2025-03-03 23:26:53,571 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 23:26:53] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-03-03 23:26:53,609 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 23:26:53] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-03-03 23:26:53,640 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 23:26:53] "GET /api/training/status HTTP/1.1" 200 -
+2025-03-03 23:27:13,617 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/complete "HTTP/1.1 200 OK"
+2025-03-03 23:27:20,631 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 23:27:20] "POST /api/query HTTP/1.1" 200 -
+2025-03-03 23:28:52,517 - httpx - INFO - HTTP Request: POST https://api.anthropic.com/v1/complete "HTTP/1.1 200 OK"
+2025-03-03 23:29:02,645 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 23:29:02] "POST /api/query HTTP/1.1" 200 -
+2025-03-03 23:45:34,695 - werkzeug - INFO -  * Detected change in 'D:\\IPMDAR-o1\\agents\\base_agent.py', reloading
+2025-03-03 23:45:34,699 - werkzeug - INFO -  * Detected change in 'D:\\IPMDAR-o1\\agents\\base_agent.py', reloading
+2025-03-03 23:45:34,702 - werkzeug - INFO -  * Detected change in 'D:\\IPMDAR-o1\\agents\\base_agent.py', reloading
+2025-03-03 23:45:35,139 - werkzeug - INFO -  * Restarting with stat
+2025-03-03 23:45:40,095 - IPMDAR Training Camp - INFO - Loaded existing certification records for 6 agents
+2025-03-03 23:45:40,107 - werkzeug - WARNING -  * Debugger is active!
+2025-03-03 23:45:40,116 - werkzeug - INFO -  * Debugger PIN: 951-530-005
+2025-03-03 23:45:52,244 - werkzeug - INFO -  * Detected change in 'D:\\IPMDAR-o1\\app.py', reloading
+2025-03-03 23:45:52,540 - werkzeug - INFO -  * Restarting with stat
+2025-03-03 23:45:58,305 - IPMDAR Training Camp - INFO - Loaded existing certification records for 6 agents
+2025-03-03 23:45:58,319 - werkzeug - WARNING -  * Debugger is active!
+2025-03-03 23:45:58,331 - werkzeug - INFO -  * Debugger PIN: 951-530-005
+2025-03-03 23:46:05,424 - werkzeug - INFO -  * Detected change in 'D:\\IPMDAR-o1\\agents\\compliance_policy.py', reloading
+2025-03-03 23:46:05,789 - werkzeug - INFO -  * Restarting with stat
+2025-03-03 23:46:11,181 - IPMDAR Training Camp - INFO - Loaded existing certification records for 6 agents
+2025-03-03 23:46:11,194 - werkzeug - WARNING -  * Debugger is active!
+2025-03-03 23:46:11,208 - werkzeug - INFO -  * Debugger PIN: 951-530-005
+2025-03-03 23:46:11,242 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 23:46:11] "GET / HTTP/1.1" 200 -
+2025-03-03 23:46:11,443 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 23:46:11] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-03-03 23:46:11,465 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 23:46:11] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-03-03 23:46:11,482 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 23:46:11] "GET /api/training/status HTTP/1.1" 200 -
+2025-03-03 23:46:39,570 - werkzeug - INFO -  * Detected change in 'D:\\IPMDAR-o1\\utils\\api_check.py', reloading
+2025-03-03 23:46:39,875 - werkzeug - INFO -  * Restarting with stat
+2025-03-03 23:46:46,842 - IPMDAR Training Camp - INFO - Loaded existing certification records for 6 agents
+2025-03-03 23:46:46,882 - werkzeug - WARNING -  * Debugger is active!
+2025-03-03 23:46:46,897 - werkzeug - INFO -  * Debugger PIN: 951-530-005
+2025-03-03 23:47:06,940 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 23:47:06] "GET / HTTP/1.1" 200 -
+2025-03-03 23:47:07,141 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 23:47:07] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-03-03 23:47:07,195 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 23:47:07] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-03-03 23:47:07,217 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 23:47:07] "GET /api/training/status HTTP/1.1" 200 -
+2025-03-03 23:47:35,883 - werkzeug - INFO -  * Detected change in 'D:\\IPMDAR-o1\\utils\\api_check.py', reloading
+2025-03-03 23:47:36,926 - werkzeug - INFO -  * Restarting with stat
+2025-03-03 23:48:07,309 - IPMDAR Training Camp - INFO - Loaded existing certification records for 6 agents
+2025-03-03 23:48:07,356 - werkzeug - WARNING -  * Debugger is active!
+2025-03-03 23:48:07,400 - werkzeug - INFO -  * Debugger PIN: 951-530-005
+2025-03-03 23:48:07,634 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 23:48:07] "GET / HTTP/1.1" 200 -
+2025-03-03 23:48:08,525 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 23:48:08] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-03-03 23:48:08,755 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 23:48:08] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-03-03 23:48:09,214 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 23:48:09] "GET /api/training/status HTTP/1.1" 200 -
+2025-03-03 23:49:02,256 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 23:49:02] "GET / HTTP/1.1" 200 -
+2025-03-03 23:49:02,311 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 23:49:02] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-03-03 23:49:02,324 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 23:49:02] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-03-03 23:49:02,367 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 23:49:02] "GET /api/training/status HTTP/1.1" 200 -
+2025-03-03 23:49:19,272 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 23:49:19] "POST /api/query HTTP/1.1" 200 -
+2025-03-03 23:50:04,426 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 23:50:04] "GET / HTTP/1.1" 200 -
+2025-03-03 23:50:04,483 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 23:50:04] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-03-03 23:50:04,490 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 23:50:04] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-03-03 23:50:04,532 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 23:50:04] "GET /api/training/status HTTP/1.1" 200 -
+2025-03-04 00:48:10,361 - IPMDAR Training Camp - INFO - Loaded existing certification records for 6 agents
+2025-03-04 00:48:10,395 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8888
+2025-03-04 00:48:10,395 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-04 00:48:10,398 - werkzeug - INFO -  * Restarting with stat
+2025-03-04 00:48:17,120 - IPMDAR Training Camp - INFO - Loaded existing certification records for 6 agents
+2025-03-04 00:48:17,143 - werkzeug - WARNING -  * Debugger is active!
+2025-03-04 00:48:17,161 - werkzeug - INFO -  * Debugger PIN: 951-530-005
+2025-03-04 00:48:19,857 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 00:48:19] "GET / HTTP/1.1" 200 -
+2025-03-04 00:48:20,059 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 00:48:20] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-03-04 00:48:20,077 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 00:48:20] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-03-04 00:48:20,241 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 00:48:20] "GET /api/training/status HTTP/1.1" 200 -
+2025-03-04 00:48:28,418 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 00:48:28] "POST /api/query HTTP/1.1" 200 -
+2025-03-04 00:50:09,537 - werkzeug - INFO -  * Detected change in 'D:\\IPMDAR-o1\\agents\\base_agent.py', reloading
+2025-03-04 00:50:10,194 - werkzeug - INFO -  * Restarting with stat
+2025-03-04 00:50:36,544 - IPMDAR Training Camp - INFO - Loaded existing certification records for 6 agents
+2025-03-04 00:50:37,014 - werkzeug - WARNING -  * Debugger is active!
+2025-03-04 00:50:37,106 - werkzeug - INFO -  * Debugger PIN: 951-530-005
+2025-03-04 00:51:53,213 - IPMDAR Training Camp - INFO - Loaded existing certification records for 6 agents
+2025-03-04 00:51:53,240 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8888
+2025-03-04 00:51:53,240 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-04 00:51:53,241 - werkzeug - INFO -  * Restarting with stat
+2025-03-04 00:51:58,848 - IPMDAR Training Camp - INFO - Loaded existing certification records for 6 agents
+2025-03-04 00:51:58,864 - werkzeug - WARNING -  * Debugger is active!
+2025-03-04 00:51:58,884 - werkzeug - INFO -  * Debugger PIN: 951-530-005
+2025-03-04 00:51:58,922 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 00:51:58] "GET / HTTP/1.1" 200 -
+2025-03-04 00:51:59,199 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 00:51:59] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-03-04 00:51:59,207 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 00:51:59] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-03-04 00:51:59,299 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 00:51:59] "GET /api/training/status HTTP/1.1" 200 -
+2025-03-04 00:52:25,539 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-04 00:52:32,913 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 00:52:32] "POST /api/query HTTP/1.1" 200 -
+2025-03-04 00:54:25,677 - werkzeug - INFO -  * Detected change in 'D:\\IPMDAR-o1\\utils\\api_check.py', reloading
+2025-03-04 00:54:26,076 - werkzeug - INFO -  * Restarting with stat
+2025-03-04 00:54:33,489 - IPMDAR Training Camp - INFO - Loaded existing certification records for 6 agents
+2025-03-04 00:54:33,503 - werkzeug - WARNING -  * Debugger is active!
+2025-03-04 00:54:33,512 - werkzeug - INFO -  * Debugger PIN: 951-530-005
+2025-03-04 00:55:26,133 - werkzeug - INFO -  * Detected change in 'D:\\IPMDAR-o1\\app.py', reloading
+2025-03-04 00:55:26,590 - werkzeug - INFO -  * Restarting with stat
+2025-03-04 00:55:33,932 - IPMDAR Training Camp - INFO - Loaded existing certification records for 6 agents
+2025-03-04 00:55:33,947 - werkzeug - WARNING -  * Debugger is active!
+2025-03-04 00:55:33,962 - werkzeug - INFO -  * Debugger PIN: 951-530-005
+2025-03-04 00:56:32,722 - IPMDAR Training Camp - INFO - Loaded existing certification records for 6 agents
+2025-03-04 00:56:32,824 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8888
+2025-03-04 00:56:32,826 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-04 00:56:32,832 - werkzeug - INFO -  * Restarting with stat
+2025-03-04 00:56:57,076 - IPMDAR Training Camp - INFO - Loaded existing certification records for 6 agents
+2025-03-04 00:56:57,518 - werkzeug - WARNING -  * Debugger is active!
+2025-03-04 00:56:57,661 - werkzeug - INFO -  * Debugger PIN: 951-530-005
+2025-03-04 00:57:01,576 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 00:57:01] "GET / HTTP/1.1" 200 -
+2025-03-04 00:57:05,112 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 00:57:05] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-03-04 00:57:05,709 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 00:57:05] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-03-04 00:57:05,946 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 00:57:05] "[35m[1mGET /api/training/status HTTP/1.1[0m" 500 -
+2025-03-04 00:57:47,396 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-04 00:58:47,572 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 00:58:47] "POST /api/query HTTP/1.1" 200 -
+2025-03-04 00:59:59,288 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 00:59:59] "[33mPOST /api/training/train HTTP/1.1[0m" 404 -
+2025-03-04 01:00:00,980 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 01:00:00] "[33mPOST /api/training/train HTTP/1.1[0m" 404 -
+2025-03-04 01:00:18,581 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 01:00:18] "[33mPOST /api/training/train HTTP/1.1[0m" 404 -
+2025-03-04 01:00:19,483 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 01:00:19] "[33mPOST /api/training/train HTTP/1.1[0m" 404 -
+2025-03-04 01:00:19,986 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 01:00:19] "[33mPOST /api/training/train HTTP/1.1[0m" 404 -
+2025-03-04 01:00:20,157 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 01:00:20] "[33mPOST /api/training/train HTTP/1.1[0m" 404 -
+2025-03-04 01:00:20,357 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 01:00:20] "[33mPOST /api/training/train HTTP/1.1[0m" 404 -

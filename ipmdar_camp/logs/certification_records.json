@@ -1,0 +1,470 @@
+{
+  "compliance": {
+    "agent_id": "compliance",
+    "agent_type": "compliance_policy",
+    "training_started": "2025-03-03T22:22:37.065772",
+    "training_completed": "2025-03-03T22:22:45.380836",
+    "curriculum_progress": {
+      "ipmdar_fundamentals": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:22:37.566379",
+        "score": 0.9090909653500548
+      },
+      "dod_acquisition_framework": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:22:38.067378",
+        "score": 0.9754227771937185
+      },
+      "data_requirements_basics": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:22:38.567827",
+        "score": 0.9279059171167577
+      },
+      "regulatory_compliance_overview": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:22:39.068870",
+        "score": 0.9684367341619886
+      },
+      "regulatory_frameworks_deep_dive": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:22:39.770934",
+        "score": 0.8557656103844398
+      },
+      "policy_interpretation_techniques": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:22:40.474387",
+        "score": 0.892717658527997
+      },
+      "compliance_verification_methods": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:22:41.175468",
+        "score": 0.9908501967217004
+      },
+      "acquisition_regulations_mastery": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:22:41.876593",
+        "score": 0.9678039413803406
+      },
+      "cdrl_development_and_review": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:22:42.577692",
+        "score": 0.9891651389014516
+      },
+      "data_analytics:performance_metric_basics": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:22:43.178372",
+        "score": 0.9091884871666696
+      },
+      "project_management:tailoring_fundamentals": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:22:43.779028",
+        "score": 0.8890774348924986
+      },
+      "systems_integration:data_format_requirements": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:22:44.379600",
+        "score": 0.9379877585899961
+      }
+    },
+    "assessment_scores": {
+      "knowledge_comprehension": 0.9854084361061115,
+      "practical_application": 0.9847104962611082,
+      "problem_solving": 0.929866263042121,
+      "adaptability": 0.9148850356807994,
+      "cross_domain_understanding": 0.9015985133657969
+    },
+    "certified": true,
+    "certification_date": "2025-03-03T22:22:45.380836",
+    "final_score": 0.9432937488911873
+  },
+  "data_analytics": {
+    "agent_id": "data_analytics",
+    "agent_type": "data_analytics",
+    "training_started": "2025-03-03T22:22:45.383963",
+    "training_completed": "2025-03-03T22:22:53.692769",
+    "curriculum_progress": {
+      "ipmdar_fundamentals": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:22:45.884629",
+        "score": 0.973811921015991
+      },
+      "dod_acquisition_framework": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:22:46.385296",
+        "score": 0.9815581453236554
+      },
+      "data_requirements_basics": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:22:46.885781",
+        "score": 0.948035040691557
+      },
+      "regulatory_compliance_overview": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:22:47.386605",
+        "score": 0.9170884970451284
+      },
+      "evms_principles_and_practices": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:22:48.087216",
+        "score": 0.9985919752094232
+      },
+      "performance_metric_analysis": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:22:48.787926",
+        "score": 0.9768383918789855
+      },
+      "data_visualization_techniques": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:22:49.488822",
+        "score": 0.9863679903023164
+      },
+      "statistical_analysis_for_ipmdar": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:22:50.189622",
+        "score": 0.992546152085071
+      },
+      "predictive_modeling_basics": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:22:50.890116",
+        "score": 0.8573733616970628
+      },
+      "compliance_policy:reporting_requirements": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:22:51.491006",
+        "score": 0.8163354118063199
+      },
+      "risk_forecasting:risk_analysis_basics": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:22:52.091414",
+        "score": 0.8792082444985133
+      },
+      "project_management:schedule_fundamentals": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:22:52.692000",
+        "score": 0.9114462338336358
+      }
+    },
+    "assessment_scores": {
+      "knowledge_comprehension": 0.9269415466062114,
+      "practical_application": 0.872558645542739,
+      "problem_solving": 0.9429030485033294,
+      "adaptability": 0.8865831934809847,
+      "cross_domain_understanding": 0.8624292220000328
+    },
+    "certified": true,
+    "certification_date": "2025-03-03T22:22:53.692769",
+    "final_score": 0.8982831312266596
+  },
+  "project_management": {
+    "agent_id": "project_management",
+    "agent_type": "project_management",
+    "training_started": "2025-03-03T22:22:53.697253",
+    "training_completed": "2025-03-03T22:23:02.005570",
+    "curriculum_progress": {
+      "ipmdar_fundamentals": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:22:54.197991",
+        "score": 0.9247020538118959
+      },
+      "dod_acquisition_framework": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:22:54.698748",
+        "score": 0.9618218066591403
+      },
+      "data_requirements_basics": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:22:55.199185",
+        "score": 0.9672507594519634
+      },
+      "regulatory_compliance_overview": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:22:55.699713",
+        "score": 0.9231442501539738
+      },
+      "project_lifecycle_management": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:22:56.400846",
+        "score": 0.9692880306196594
+      },
+      "ipmdar_tailoring_strategies": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:22:57.101319",
+        "score": 0.9826216688093087
+      },
+      "wbs_development_and_management": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:22:57.801719",
+        "score": 0.993674533894065
+      },
+      "schedule_integration_techniques": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:22:58.502155",
+        "score": 0.8880274018030935
+      },
+      "resource_management_best_practices": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:22:59.202531",
+        "score": 0.8739556860855566
+      },
+      "compliance_policy:acquisition_requirements": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:22:59.803123",
+        "score": 0.8575419752895547
+      },
+      "risk_forecasting:risk_management_basics": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:23:00.403889",
+        "score": 0.8153308508346226
+      },
+      "implementation_support:stakeholder_engagement": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:23:01.004423",
+        "score": 0.911490386148732
+      }
+    },
+    "assessment_scores": {
+      "knowledge_comprehension": 0.8762760664566077,
+      "practical_application": 0.8545422910205536,
+      "problem_solving": 0.8820604741990334,
+      "adaptability": 0.8883317160297598,
+      "cross_domain_understanding": 0.862680058611401
+    },
+    "certified": true,
+    "certification_date": "2025-03-03T22:23:02.005570",
+    "final_score": 0.8727781212634712
+  },
+  "risk_forecasting": {
+    "agent_id": "risk_forecasting",
+    "agent_type": "risk_forecasting",
+    "training_started": "2025-03-03T22:23:02.009132",
+    "training_completed": "2025-03-03T22:23:10.319059",
+    "curriculum_progress": {
+      "ipmdar_fundamentals": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:23:02.510618",
+        "score": 0.9698039500542573
+      },
+      "dod_acquisition_framework": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:23:03.011221",
+        "score": 0.9107784808810915
+      },
+      "data_requirements_basics": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:23:03.511785",
+        "score": 0.998478415424968
+      },
+      "regulatory_compliance_overview": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:23:04.012507",
+        "score": 0.9057952658295098
+      },
+      "risk_identification_methods": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:23:04.713472",
+        "score": 0.9351469071576971
+      },
+      "quantitative_risk_analysis": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:23:05.414320",
+        "score": 0.8571530421884097
+      },
+      "forecasting_techniques": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:23:06.114869",
+        "score": 0.9415249589867687
+      },
+      "eac_etc_calculation_methods": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:23:06.815512",
+        "score": 0.980288916159249
+      },
+      "monte_carlo_simulation_basics": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:23:07.516434",
+        "score": 0.9692032757474838
+      },
+      "data_analytics:statistical_foundations": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:23:08.117250",
+        "score": 0.815352127219707
+      },
+      "project_management:critical_path_analysis": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:23:08.717852",
+        "score": 0.9015087969994604
+      },
+      "compliance_policy:contract_types_and_risks": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:23:09.318644",
+        "score": 0.8691686799741126
+      }
+    },
+    "assessment_scores": {
+      "knowledge_comprehension": 0.9192984147360854,
+      "practical_application": 0.9740571941811776,
+      "problem_solving": 0.8507400006405985,
+      "adaptability": 0.9409945834619967,
+      "cross_domain_understanding": 0.9920769989022005
+    },
+    "certified": true,
+    "certification_date": "2025-03-03T22:23:10.319059",
+    "final_score": 0.9354334383844118
+  },
+  "systems_integration": {
+    "agent_id": "systems_integration",
+    "agent_type": "systems_integration",
+    "training_started": "2025-03-03T22:23:10.323428",
+    "training_completed": "2025-03-03T22:23:18.631654",
+    "curriculum_progress": {
+      "ipmdar_fundamentals": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:23:10.824086",
+        "score": 0.9582863604076949
+      },
+      "dod_acquisition_framework": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:23:11.324887",
+        "score": 0.9655816372456938
+      },
+      "data_requirements_basics": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:23:11.825744",
+        "score": 0.9395322702888871
+      },
+      "regulatory_compliance_overview": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:23:12.326323",
+        "score": 0.9602248128536345
+      },
+      "data_schemas_and_formats": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:23:13.026952",
+        "score": 0.9165138690382975
+      },
+      "system_interoperability_standards": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:23:13.727556",
+        "score": 0.9307291543186093
+      },
+      "integration_architecture_design": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:23:14.428074",
+        "score": 0.9568474142839789
+      },
+      "automated_data_validation": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:23:15.128528",
+        "score": 0.8507054443521267
+      },
+      "legacy_system_integration": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:23:15.829199",
+        "score": 0.9415811461768926
+      },
+      "data_analytics:data_structure_fundamentals": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:23:16.430019",
+        "score": 0.8450618354160497
+      },
+      "implementation_support:system_deployment_basics": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:23:17.030548",
+        "score": 0.8323216953279571
+      },
+      "compliance_policy:data_security_requirements": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:23:17.631188",
+        "score": 0.8339345697710443
+      }
+    },
+    "assessment_scores": {
+      "knowledge_comprehension": 0.9656194789614834,
+      "practical_application": 0.9312567619772028,
+      "problem_solving": 0.9360373093973701,
+      "adaptability": 0.9880382007920774,
+      "cross_domain_understanding": 0.9477363012454535
+    },
+    "certified": true,
+    "certification_date": "2025-03-03T22:23:18.631654",
+    "final_score": 0.9537376104747175
+  },
+  "implementation_support": {
+    "agent_id": "implementation_support",
+    "agent_type": "implementation_support",
+    "training_started": "2025-03-03T22:23:18.635694",
+    "training_completed": "2025-03-03T22:23:26.946138",
+    "curriculum_progress": {
+      "ipmdar_fundamentals": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:23:19.137417",
+        "score": 0.9335939336688572
+      },
+      "dod_acquisition_framework": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:23:19.637993",
+        "score": 0.9305019416114567
+      },
+      "data_requirements_basics": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:23:20.138575",
+        "score": 0.9947795259878249
+      },
+      "regulatory_compliance_overview": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:23:20.639358",
+        "score": 0.9845525083235417
+      },
+      "change_management_strategies": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:23:21.340070",
+        "score": 0.9805847538175548
+      },
+      "training_program_development": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:23:22.040839",
+        "score": 0.9498618003101149
+      },
+      "process_documentation_techniques": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:23:22.741565",
+        "score": 0.8930791807165267
+      },
+      "stakeholder_communication": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:23:23.442349",
+        "score": 0.8890808365564288
+      },
+      "implementation_roadmap_design": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:23:24.143167",
+        "score": 0.8630080688314845
+      },
+      "project_management:implementation_planning": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:23:24.743677",
+        "score": 0.8725940533752088
+      },
+      "systems_integration:user_interface_basics": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:23:25.344125",
+        "score": 0.9303527324241674
+      },
+      "compliance_policy:training_requirements": {
+        "completed": true,
+        "completion_date": "2025-03-03T22:23:25.944987",
+        "score": 0.8869896014371579
+      }
+    },
+    "assessment_scores": {
+      "knowledge_comprehension": 0.9841667022550679,
+      "practical_application": 0.8582638846391825,
+      "problem_solving": 0.9446005616158281,
+      "adaptability": 0.8908069960023443,
+      "cross_domain_understanding": 0.9428945282122846
+    },
+    "certified": true,
+    "certification_date": "2025-03-03T22:23:26.946138",
+    "final_score": 0.9241465345449414
+  }
+}

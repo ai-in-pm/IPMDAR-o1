@@ -1,0 +1,61 @@
+{
+  "module_name": "Risk & Forecasting Assessments",
+  "version": "1.0",
+  "assessment_questions": [
+    {
+      "question": "Which calculation method uses both cost and schedule indices to forecast the Estimate at Completion (EAC)?",
+      "options": [
+        "Cumulative CPI Method",
+        "SCI (Schedule Cost Index) Method",
+        "BAC Method",
+        "ETC Method"
+      ],
+      "correct_answer": "SCI (Schedule Cost Index) Method",
+      "explanation": "The SCI Method combines both the CPI and SPI indices in the formula EAC = BAC / (CPI × SPI) to create a forecast that accounts for both cost and schedule performance."
+    },
+    {
+      "question": "What is the primary purpose of Monte Carlo simulation in IPMDAR risk analysis?",
+      "options": [
+        "To eliminate the need for risk management",
+        "To simulate thousands of possible project outcomes based on probabilistic inputs",
+        "To replace traditional EVM metrics",
+        "To comply with DoD regulations without meaningful analysis"
+      ],
+      "correct_answer": "To simulate thousands of possible project outcomes based on probabilistic inputs",
+      "explanation": "Monte Carlo simulation allows risk analysts to run thousands of simulations with different random variables to generate a probability distribution of possible project outcomes."
+    },
+    {
+      "question": "Which of the following is NOT typically included in a risk-adjusted EAC?",
+      "options": [
+        "Known performance variances to date",
+        "Probabilistic assessment of identified risks",
+        "Contractor profit margins",
+        "Management reserve considerations"
+      ],
+      "correct_answer": "Contractor profit margins",
+      "explanation": "Contractor profit margins are not typically included in risk-adjusted EACs. These estimates focus on project cost elements affected by performance and risk factors, not contractual profit arrangements."
+    },
+    {
+      "question": "When integrating risk data with EVM in IPMDAR, which approach is considered best practice?",
+      "options": [
+        "Keeping risk analysis and EVM data completely separate",
+        "Replacing EVM data with risk analysis data",
+        "Performing quantitative risk assessment only after EVM data shows problems",
+        "Integrating risk impacts into EVM forecasts to create risk-adjusted EACs"
+      ],
+      "correct_answer": "Integrating risk impacts into EVM forecasts to create risk-adjusted EACs",
+      "explanation": "Best practice involves integrating risk assessment data into EVM forecasts to create comprehensive risk-adjusted EACs that account for both current performance and future risk impacts."
+    },
+    {
+      "question": "What is the correct interpretation of an 80% confidence level in a risk-adjusted schedule?",
+      "options": [
+        "There is an 80% chance the project will finish early",
+        "There is an 80% chance the project will finish on the estimated completion date or earlier",
+        "At least 80% of project tasks will be completed on time",
+        "The schedule has been padded with 80% additional time"
+      ],
+      "correct_answer": "There is an 80% chance the project will finish on the estimated completion date or earlier",
+      "explanation": "An 80% confidence level means there is an 80% probability that the project will complete on or before the estimated completion date, based on the risk analysis performed."
+    }
+  ]
+}

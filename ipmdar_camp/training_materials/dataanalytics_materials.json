@@ -1,0 +1,42 @@
+{
+  "module_name": "Data Analytics Training Materials",
+  "version": "1.0",
+  "topics": [
+    {
+      "title": "EVM Data Analysis Fundamentals",
+      "content": "Earned Value Management (EVM) data analysis is a core component of IPMDAR reporting and interpretation. Key concepts include:\n\n1. Cost Performance Index (CPI): Measures cost efficiency as the ratio of Earned Value (EV) to Actual Cost (AC)\n2. Schedule Performance Index (SPI): Measures schedule efficiency as the ratio of Earned Value (EV) to Planned Value (PV)\n3. Variance Analysis: Calculation and interpretation of Cost Variance (CV) and Schedule Variance (SV)\n4. Variance at Completion (VAC): Projection of final program cost variance\n\nIPMDAR data analytics requires both calculation of these metrics and meaningful interpretation of what they indicate about program health and trends.",
+      "learning_objectives": [
+        "Calculate core EVM metrics from raw IPMDAR data",
+        "Interpret EVM performance trends and variances",
+        "Identify significant performance issues from EVM data"
+      ]
+    },
+    {
+      "title": "IPMDAR Data Visualization Techniques",
+      "content": "Effective visualization of IPMDAR data transforms raw numbers into actionable insights. Key visualization techniques include:\n\n1. Performance Index Charts: Tracking CPI and SPI over time to identify trends\n2. Variance Charts: Showing CV and SV evolution throughout the program lifecycle\n3. S-Curves: Displaying cumulative planned, earned, and actual costs\n4. Waterfall Charts: Breaking down variances by WBS elements\n5. Heat Maps: Highlighting high-risk or poor-performing areas of the contract\n\nEffective visualizations should provide clear indicators of program health, highlight potential issues, and support decision-making for corrective actions.",
+      "learning_objectives": [
+        "Select appropriate visualization techniques for different IPMDAR analysis needs",
+        "Create effective visualizations that highlight key performance issues",
+        "Develop dashboard views for different stakeholder perspectives"
+      ]
+    },
+    {
+      "title": "Statistical Analysis of EVM Data",
+      "content": "Statistical techniques enhance the analysis of IPMDAR data by identifying patterns, correlations, and anomalies. Key statistical approaches include:\n\n1. Trend Analysis: Regression techniques to identify performance trends and inflection points\n2. Statistical Process Control: Establishing control limits to identify abnormal performance variations\n3. Correlation Analysis: Identifying relationships between different performance factors\n4. Anomaly Detection: Statistical methods to identify outliers and unusual patterns\n\nStatistical analysis adds rigor to IPMDAR interpretation, moving beyond simple metric calculation to deeper insights about program performance and potential future trends.",
+      "learning_objectives": [
+        "Apply appropriate statistical techniques to IPMDAR data analysis",
+        "Identify statistically significant trends and patterns in performance data",
+        "Differentiate between normal variation and significant performance issues"
+      ]
+    },
+    {
+      "title": "Format 5 Narrative Analysis",
+      "content": "The Format 5 Performance Narrative is a critical IPMDAR component that provides context and explanation for the quantitative data. Effective narratives should:\n\n1. Explain significant variances and their root causes\n2. Describe corrective actions and their expected impacts\n3. Identify emerging risks and opportunities\n4. Provide context for data anomalies or unusual patterns\n\nThe Format 5 narrative bridges the gap between quantitative data and management decision-making by explaining what the numbers mean in terms of program execution and future actions.",
+      "learning_objectives": [
+        "Analyze Format 5 narratives for completeness and quality",
+        "Identify discrepancies between quantitative data and narrative explanations",
+        "Evaluate the effectiveness of described corrective actions"
+      ]
+    }
+  ]
+}

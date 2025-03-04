@@ -1,0 +1,61 @@
+{
+  "module_name": "Compliance & Policy Assessments",
+  "version": "1.0",
+  "assessment_questions": [
+    {
+      "question": "Which DoDI establishes the framework for the Defense Acquisition System?",
+      "options": [
+        "DoDI 4000.01",
+        "DoDI 5000.02",
+        "DoDI 5000.75",
+        "DoDI 8500.01"
+      ],
+      "correct_answer": "DoDI 5000.02",
+      "explanation": "DoDI 5000.02 establishes the management framework for the Defense Acquisition System and specifically mandates IPMDAR for certain program categories."
+    },
+    {
+      "question": "Which legacy reporting requirements did IPMDAR replace?",
+      "options": [
+        "Program Management Plan (PMP) and Risk Management Plan (RMP)",
+        "Work Breakdown Structure (WBS) and Organizational Breakdown Structure (OBS)",
+        "Contract Performance Report (CPR) and Integrated Master Schedule (IMS)",
+        "Acquisition Strategy (AS) and Test and Evaluation Master Plan (TEMP)"
+      ],
+      "correct_answer": "Contract Performance Report (CPR) and Integrated Master Schedule (IMS)",
+      "explanation": "IPMDAR replaced the legacy Contract Performance Report (CPR) and the Integrated Master Schedule (IMS) Data Item Descriptions (DIDs)."
+    },
+    {
+      "question": "What is the correct sequence for IPMDAR implementation in a new DoD acquisition program?",
+      "options": [
+        "Deploy contractor systems, train personnel, submit first report, obtain approval",
+        "Obtain approval, deploy contractor systems, train personnel, submit first report",
+        "Determine requirements, obtain approval, implement systems, verify compliance",
+        "Implement systems, determine requirements, verify compliance, obtain approval"
+      ],
+      "correct_answer": "Determine requirements, obtain approval, implement systems, verify compliance",
+      "explanation": "The correct implementation sequence starts with determining tailored requirements, obtaining government approval, implementing appropriate systems, and then verifying compliance."
+    },
+    {
+      "question": "Who is responsible for approving IPMDAR tailoring requests?",
+      "options": [
+        "Program Manager",
+        "Prime Contractor",
+        "DCMA EVMS Team",
+        "Office of Under Secretary of Defense for Acquisition and Sustainment"
+      ],
+      "correct_answer": "Program Manager",
+      "explanation": "The Program Manager has the authority to approve appropriate tailoring of IPMDAR requirements based on program characteristics and needs."
+    },
+    {
+      "question": "What is the primary intent of IPMDAR?",
+      "options": [
+        "To increase contractor workload",
+        "To provide performance measurement data to government program offices",
+        "To reduce government oversight requirements",
+        "To eliminate legacy reporting systems entirely"
+      ],
+      "correct_answer": "To provide performance measurement data to government program offices",
+      "explanation": "The primary intent of IPMDAR is to provide standardized performance measurement data to government program offices for effective program management and oversight."
+    }
+  ]
+}

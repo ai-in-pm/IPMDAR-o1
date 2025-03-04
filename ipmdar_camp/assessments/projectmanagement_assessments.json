@@ -1,0 +1,61 @@
+{
+  "module_name": "Project Management Assessments",
+  "version": "1.0",
+  "assessment_questions": [
+    {
+      "question": "Which of the following is NOT typically included in an IPMDAR implementation plan?",
+      "options": [
+        "Requirements analysis for IPMDAR components",
+        "Assessment of existing systems for data collection",
+        "Contractor profit sharing arrangements",
+        "Resource planning for implementation activities"
+      ],
+      "correct_answer": "Contractor profit sharing arrangements",
+      "explanation": "Contractor profit sharing arrangements are contractual financial terms that are not part of an IPMDAR implementation plan. The plan focuses on requirements, systems, resources, and processes needed for IPMDAR reporting."
+    },
+    {
+      "question": "When developing a Work Breakdown Structure (WBS) for IPMDAR reporting, what standard should be followed?",
+      "options": [
+        "ISO 9001",
+        "MIL-STD-881",
+        "ANSI/EIA-748",
+        "IEEE 1012"
+      ],
+      "correct_answer": "MIL-STD-881",
+      "explanation": "MIL-STD-881 is the Department of Defense standard that provides guidance for Work Breakdown Structures, including product-oriented hierarchical decomposition and standardized elements for different program types."
+    },
+    {
+      "question": "What is the primary purpose of an Integrated Baseline Review (IBR) in the context of IPMDAR?",
+      "options": [
+        "To verify contractor compliance with ANSI/EIA-748",
+        "To validate the Performance Measurement Baseline (PMB)",
+        "To approve contractor payment requests",
+        "To evaluate contractor technical capabilities"
+      ],
+      "correct_answer": "To validate the Performance Measurement Baseline (PMB)",
+      "explanation": "The primary purpose of an IBR is to validate that the Performance Measurement Baseline (PMB) is realistic, comprehensive, and provides a valid reference point for IPMDAR performance reporting."
+    },
+    {
+      "question": "Which contract document specifically lists the delivery requirements for IPMDAR submissions?",
+      "options": [
+        "Statement of Work (SOW)",
+        "Contract Data Requirements List (CDRL)",
+        "Request for Proposal (RFP)",
+        "System Specification Document"
+      ],
+      "correct_answer": "Contract Data Requirements List (CDRL)",
+      "explanation": "The Contract Data Requirements List (CDRL) is the specific contract document that lists delivery requirements for IPMDAR submissions, including format, frequency, and distribution."
+    },
+    {
+      "question": "What is the recommended approach for implementing IPMDAR on a large, complex program?",
+      "options": [
+        "Implement all requirements at once with no tailoring",
+        "Delay implementation until the program is 50% complete",
+        "Develop a phased approach with appropriate tailoring",
+        "Implement only the minimum requirements for compliance"
+      ],
+      "correct_answer": "Develop a phased approach with appropriate tailoring",
+      "explanation": "A phased approach with appropriate tailoring based on program size and complexity is recommended for implementing IPMDAR on large, complex programs, ensuring both compliance and practical utility."
+    }
+  ]
+}

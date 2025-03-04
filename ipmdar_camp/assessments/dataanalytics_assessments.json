@@ -1,0 +1,61 @@
+{
+  "module_name": "Data Analytics Assessments",
+  "version": "1.0",
+  "assessment_questions": [
+    {
+      "question": "What does a Cost Performance Index (CPI) of 0.85 indicate about a program?",
+      "options": [
+        "The program is 15% ahead of schedule",
+        "The program is performing at 85% of the planned cost efficiency",
+        "The program has used 85% of its budget",
+        "The program is 15% behind schedule"
+      ],
+      "correct_answer": "The program is performing at 85% of the planned cost efficiency",
+      "explanation": "A CPI of 0.85 means that for every dollar spent, the program is earning only $0.85 in value, indicating cost inefficiency of 15%."
+    },
+    {
+      "question": "Which visualization technique best shows the cumulative planned value, earned value, and actual cost over time?",
+      "options": [
+        "Bar chart",
+        "Scatter plot",
+        "S-curve",
+        "Pie chart"
+      ],
+      "correct_answer": "S-curve",
+      "explanation": "S-curves display cumulative values over time and are ideally suited for showing the relationship between planned value, earned value, and actual cost throughout a program."
+    },
+    {
+      "question": "When analyzing a Format 5 narrative report, which of the following would be considered a deficiency?",
+      "options": [
+        "Detailed explanation of root causes for significant variances",
+        "Description of specific corrective actions with expected completion dates",
+        "General statement that 'all variances are being addressed'",
+        "Analysis of potential impacts of current variances on final outcomes"
+      ],
+      "correct_answer": "General statement that 'all variances are being addressed'",
+      "explanation": "Vague, general statements without specific details about variance causes, corrective actions, and expected impacts are a deficiency in Format 5 reporting."
+    },
+    {
+      "question": "What statistical technique would be most appropriate for determining if a recent performance change represents a significant trend versus normal variation?",
+      "options": [
+        "Simple averaging",
+        "Statistical Process Control (SPC)",
+        "Pie chart analysis",
+        "Nominal Group Technique"
+      ],
+      "correct_answer": "Statistical Process Control (SPC)",
+      "explanation": "Statistical Process Control (SPC) establishes control limits that help differentiate between normal variation in performance and significant changes that represent actual trends."
+    },
+    {
+      "question": "A program's CPI has been 0.92, 0.91, 0.89, 0.87, and 0.84 over the past five reporting periods. What does this trend most likely indicate?",
+      "options": [
+        "The program is becoming progressively more cost efficient",
+        "The program is experiencing gradually worsening cost performance",
+        "The program is maintaining stable cost performance",
+        "The program is improving its schedule performance"
+      ],
+      "correct_answer": "The program is experiencing gradually worsening cost performance",
+      "explanation": "The declining CPI values (from 0.92 to 0.84) indicate a program that is becoming progressively less cost-efficient over time, showing a negative trend in cost performance."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "module_name": "Risk & Forecasting Essentials",
+  "version": "1.0",
+  "topics": [
+    {
+      "title": "IPMDAR Risk Reporting Framework",
+      "content": "The IPMDAR includes specific sections for risk reporting that integrate with EVM data to provide a comprehensive view of program health. Risk information in the IPMDAR focuses on cost, schedule, and technical performance risks that could impact the program's ability to meet its objectives.",
+      "learning_objectives": [
+        "Understand the relationship between risk data and EVM metrics in IPMDAR",
+        "Identify the required elements of risk reporting in IPMDAR submissions",
+        "Apply risk categorization consistent with DoD risk management practices"
+      ]
+    },
+    {
+      "title": "Estimate at Completion (EAC) Analysis",
+      "content": "The Estimate at Completion (EAC) is a critical forecasting element in the IPMDAR that projects the final cost of a program based on current performance trends. Various EAC methodologies are used, including the Cumulative CPI Method, the SCI (Schedule Cost Index) Method, and the Comprehensive EAC that incorporates risk assessments.",
+      "learning_objectives": [
+        "Calculate EAC using multiple forecasting methodologies",
+        "Interpret EAC variances and their implications for program management",
+        "Integrate risk assessments into EAC calculations for more accurate forecasting"
+      ]
+    },
+    {
+      "title": "Quantitative Risk Analysis for IPMDAR",
+      "content": "Quantitative Risk Analysis (QRA) translates identified risks into potential cost and schedule impacts. The IPMDAR requires that significant risks be quantified to support the development of risk-adjusted EACs and completion dates. Techniques include Monte Carlo simulation, sensitivity analysis, and decision tree analysis.",
+      "learning_objectives": [
+        "Apply Monte Carlo simulation to quantify schedule and cost risk",
+        "Develop probability distributions for key risk factors",
+        "Interpret confidence levels in risk-adjusted forecasts"
+      ]
+    }
+  ],
+  "assessment_questions": [
+    {
+      "question": "What is the primary purpose of integrating risk data with EVM metrics in the IPMDAR?",
+      "options": [
+        "To increase the volume of reporting requirements",
+        "To satisfy administrative documentation requirements",
+        "To provide a comprehensive view of program health",
+        "To create additional oversight responsibilities"
+      ],
+      "correct_answer": "To provide a comprehensive view of program health",
+      "explanation": "The integration of risk data with EVM metrics in the IPMDAR provides a comprehensive view of program health by connecting performance trends with potential threats to program success."
+    },
+    {
+      "question": "Which EAC methodology incorporates both cost and schedule performance into its forecast?",
+      "options": [
+        "Cumulative CPI Method",
+        "SCI (Schedule Cost Index) Method",
+        "BAC Method",
+        "ETC Method"
+      ],
+      "correct_answer": "SCI (Schedule Cost Index) Method",
+      "explanation": "The SCI (Schedule Cost Index) Method incorporates both the Cost Performance Index (CPI) and Schedule Performance Index (SPI) into its forecast formula: EAC = BAC / (CPI × SPI)."
+    },
+    {
+      "question": "What technique is most commonly used in Quantitative Risk Analysis to simulate thousands of possible project outcomes?",
+      "options": [
+        "Decision tree analysis",
+        "Monte Carlo simulation",
+        "SWOT analysis",
+        "Fault tree analysis"
+      ],
+      "correct_answer": "Monte Carlo simulation",
+      "explanation": "Monte Carlo simulation is a computerized mathematical technique that allows for the consideration of risk in quantitative analysis by running thousands of simulations with random variables to generate a distribution of possible outcomes."
+    }
+  ]
+}

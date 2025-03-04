@@ -1,0 +1,61 @@
+{
+  "module_name": "Implementation Support Assessments",
+  "version": "1.0",
+  "assessment_questions": [
+    {
+      "question": "What should be included in an IPMDAR transition plan to ensure reporting continuity?",
+      "options": [
+        "Immediate termination of legacy systems",
+        "Parallel operation of legacy and IPMDAR reporting",
+        "Reduced reporting frequency during transition",
+        "Simplified data requirements for the first year"
+      ],
+      "correct_answer": "Parallel operation of legacy and IPMDAR reporting",
+      "explanation": "Parallel operation of legacy and IPMDAR reporting during transition ensures reporting continuity and allows for validation of the new reporting approach before fully retiring legacy systems."
+    },
+    {
+      "question": "Which organizational change management technique is most effective for addressing resistance to IPMDAR implementation?",
+      "options": [
+        "Mandating compliance without explanation",
+        "Ignoring resistance until it subsides",
+        "Proactive stakeholder engagement and communication",
+        "Implementing the change during end-of-year holidays"
+      ],
+      "correct_answer": "Proactive stakeholder engagement and communication",
+      "explanation": "Proactive stakeholder engagement and communication is the most effective approach for addressing resistance, as it helps people understand the reasons for change and how it will benefit them and the program."
+    },
+    {
+      "question": "What is the first step in developing an IPMDAR implementation roadmap?",
+      "options": [
+        "Purchasing new software systems",
+        "Current state assessment",
+        "Staff reorganization",
+        "Implementing the most complex requirements"
+      ],
+      "correct_answer": "Current state assessment",
+      "explanation": "Current state assessment is the first step in developing an implementation roadmap, as it establishes the baseline from which the organization will evolve and identifies specific gaps that need to be addressed."
+    },
+    {
+      "question": "How should IPMDAR reporting be integrated with program management processes?",
+      "options": [
+        "Keep IPMDAR reporting separate from other program activities",
+        "Eliminate existing processes and replace them with IPMDAR",
+        "Embed IPMDAR activities into standard program workflows",
+        "Make IPMDAR reporting a quarterly exercise only"
+      ],
+      "correct_answer": "Embed IPMDAR activities into standard program workflows",
+      "explanation": "Embedding IPMDAR activities into standard program workflows ensures that the reporting becomes an integrated part of program management rather than an isolated compliance activity."
+    },
+    {
+      "question": "Which aspect of IPMDAR implementation typically requires the most training for program personnel?",
+      "options": [
+        "Understanding the regulatory requirements",
+        "Data interpretation and analysis for decision-making",
+        "Basic computer skills",
+        "Writing general program descriptions"
+      ],
+      "correct_answer": "Data interpretation and analysis for decision-making",
+      "explanation": "Data interpretation and analysis for decision-making typically requires the most training, as it involves moving beyond compliance to actually using IPMDAR data to improve program outcomes."
+    }
+  ]
+}

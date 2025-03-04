@@ -1,0 +1,42 @@
+{
+  "module_name": "Risk & Forecasting Training Materials",
+  "version": "1.0",
+  "topics": [
+    {
+      "title": "Risk Management in IPMDAR",
+      "content": "Risk management is a critical component of the IPMDAR framework, providing forward-looking analysis that complements the backward-looking nature of earned value data. The IPMDAR approach to risk management focuses on:\n\n1. Risk Identification: Systematic process to identify program risks that may impact cost, schedule, or technical performance\n2. Risk Analysis: Qualitative and quantitative assessment of probability and impact\n3. Risk Response Planning: Development of mitigation strategies and contingency plans\n4. Risk Monitoring: Ongoing tracking of known risks and identification of new risks\n\nIPMDAR risk reporting requires correlation between identified risks and potential impacts to the performance measurement baseline (PMB), ensuring that risk data supports comprehensive program management.",
+      "learning_objectives": [
+        "Understand the role of risk management within the IPMDAR framework",
+        "Identify the key components of effective risk reporting",
+        "Recognize how risk data interfaces with other IPMDAR components"
+      ]
+    },
+    {
+      "title": "EAC Forecasting Methodologies",
+      "content": "The Estimate at Completion (EAC) is a critical metric in IPMDAR reporting, projecting the likely final cost of the program based on current performance data and future risk assessments. Key EAC methodologies include:\n\n1. Cumulative CPI Method: EAC = BAC / CPI\n   (Assumes future performance will match cumulative cost efficiency to date)\n\n2. Schedule-Adjusted CPI Method: EAC = BAC / (CPI × SPI)\n   (Accounts for both cost and schedule performance)\n\n3. Weighted Indices Method: EAC = AC + [(BAC - EV) / (w1×CPI + w2×SPI)]\n   (Uses weighted combination of performance indices)\n\n4. Comprehensive EAC: Integrates statistical analysis, performance trends, and risk quantification\n\nIPMDAR requires documentation of the methodology used and rationale for selecting particular forecasting approaches.",
+      "learning_objectives": [
+        "Calculate EACs using different methodologies",
+        "Select appropriate forecasting methods based on program characteristics",
+        "Document forecasting assumptions and methodologies in IPMDAR submissions"
+      ]
+    },
+    {
+      "title": "Quantitative Risk Analysis Techniques",
+      "content": "Quantitative Risk Analysis (QRA) transforms qualitative risk assessments into numerical impacts that can be integrated with EVM data. Key techniques include:\n\n1. Monte Carlo Simulation: Uses probability distributions for key variables to model thousands of possible outcomes and develop confidence levels\n\n2. Decision Tree Analysis: Models potential decision paths and their consequences based on probability weightings\n\n3. Sensitivity Analysis: Determines which risk factors have the greatest impact on cost and schedule outcomes\n\n4. Expected Monetary Value (EMV): Calculates risk impact by multiplying probability by impact value\n\nThese techniques support the development of risk-adjusted EACs and schedules that provide more realistic forecasts than deterministic calculations.",
+      "learning_objectives": [
+        "Apply appropriate quantitative risk analysis techniques",
+        "Interpret QRA results and confidence intervals",
+        "Integrate QRA outputs with EVM forecasts"
+      ]
+    },
+    {
+      "title": "Integrated Cost-Schedule Risk Analysis",
+      "content": "Integrated Cost-Schedule Risk Analysis (ICSRA) recognizes the interdependency between cost and schedule risks. This approach:\n\n1. Models schedule network logic with uncertainty in activity durations\n2. Maps schedule activities to cost elements\n3. Applies correlation factors between related risks\n4. Simulates combined cost-schedule outcomes\n\nThe joint analysis provides more realistic forecasts than separate assessments of cost and schedule risks. IPMDAR reporting benefits from ICSRA by providing decision-makers with an integrated view of program risks and their potential impacts across multiple dimensions.\n\nKey outputs include:\n- Joint confidence level (JCL) curves showing probability of meeting both cost and schedule targets\n- Identification of key drivers affecting both cost and schedule outcomes\n- Scenario-based analysis of different risk response strategies",
+      "learning_objectives": [
+        "Understand the interdependency between cost and schedule risks",
+        "Apply ICSRA techniques to develop integrated forecasts",
+        "Interpret and communicate joint confidence levels"
+      ]
+    }
+  ]
+}

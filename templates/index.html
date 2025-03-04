@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IPMDAR AI Expert System</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    <!-- Add Chart.js for competition visualizations -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <style>
+        /* Styles for competition dashboard */
+        .competition-dashboard {
+            margin-top: 15px;
+            padding: 15px;
+            background-color: #f8f9fa;
+            border-radius: 10px;
+        }
+        
+        .performance-metrics {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+        
+        .metrics-container {
+            display: flex;
+            gap: 20px;
+        }
+        
+        .response-times-chart, .win-rate-chart {
+            flex: 1;
+            height: 200px;
+        }
+        
+        .winning-response {
+            border-left: 4px solid #28a745;
+        }
+        
+        .correction-response {
+            border-left: 4px solid #ffc107;
+        }
+        
+        .winner-badge {
+            background-color: #28a745;
+            color: white;
+            padding: 2px 8px;
+            border-radius: 12px;
+        }
+        
+        .correction-badge {
+            background-color: #ffc107;
+            color: #212529;
+            padding: 2px 8px;
+            border-radius: 12px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="row">
+            <!-- Sidebar with AI agents -->
+            <div class="col-md-3 sidebar p-0">
+                <div class="d-flex flex-column h-100">
+                    <div class="sidebar-header text-center py-4">
+                        <h3 class="text-white mb-0">IPMDAR AI Expert Panel</h3>
+                        <p class="text-white-50 small mb-0">DoD Acquisition Support System</p>
+                    </div>
+                    
+                    <div class="agent-list mt-4 flex-grow-1 overflow-auto">
+                        <div class="agent-item active" data-agent="all">
+                            <div class="agent-avatar team">
+                                <i class="bi bi-people-fill"></i>
+                            </div>
+                            <div class="agent-info">
+                                <h5>All Experts</h5>
+                                <p>Consult the entire expert panel</p>
+                            </div>
+                        </div>
+                        
+                        <div class="agent-item" data-agent="compliance">
+                            <div class="agent-avatar">
+                                <i class="bi bi-shield-check"></i>
+                            </div>
+                            <div class="agent-info">
+                                <h5>Dr. Compliance & Policy</h5>
+                                <p>IPMDAR regulations & DoD policies</p>
+                            </div>
+                        </div>
+                        
+                        <div class="agent-item" data-agent="data_analytics">
+                            <div class="agent-avatar">
+                                <i class="bi bi-graph-up"></i>
+                            </div>
+                            <div class="agent-info">
+                                <h5>Dr. Data Analytics</h5>
+                                <p>Performance data & EVM metrics</p>
+                            </div>
+                        </div>
+                        
+                        <div class="agent-item" data-agent="project_management">
+                            <div class="agent-avatar">
+                                <i class="bi bi-kanban"></i>
+                            </div>
+                            <div class="agent-info">
+                                <h5>Dr. Project Management</h5>
+                                <p>IPMDAR tailoring & implementation</p>
+                            </div>
+                        </div>
+                        
+                        <div class="agent-item" data-agent="risk_forecasting">
+                            <div class="agent-avatar">
+                                <i class="bi bi-exclamation-triangle"></i>
+                            </div>
+                            <div class="agent-info">
+                                <h5>Dr. Risk & Forecasting</h5>
+                                <p>Predictive analytics & risk mitigation</p>
+                            </div>
+                        </div>
+                        
+                        <div class="agent-item" data-agent="systems_integration">
+                            <div class="agent-avatar">
+                                <i class="bi bi-gear-wide-connected"></i>
+                            </div>
+                            <div class="agent-info">
+                                <h5>Dr. Systems Integration</h5>
+                                <p>Technical integration & JSON formatting</p>
+                            </div>
+                        </div>
+                        
+                        <div class="agent-item" data-agent="implementation_support">
+                            <div class="agent-avatar">
+                                <i class="bi bi-life-preserver"></i>
+                            </div>
+                            <div class="agent-info">
+                                <h5>Dr. Implementation Support</h5>
+                                <p>Step-by-step guidance & assistance</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="sidebar-footer text-center py-3">
+                        <p class="text-white-50 small mb-0">IPMDAR AI Expert System v1.0</p>
+                        <p class="text-white-50 small mb-0">Trained on IPMDAR Implementation and Tailoring Guide</p>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Main chat area -->
+            <div class="col-md-9 chat-area p-0">
+                <!-- Header with selected agent info -->
+                <div class="chat-header d-flex align-items-center px-4 py-3">
+                    <div class="selected-agent-info d-flex align-items-center">
+                        <div class="selected-agent-avatar team">
+                            <i class="bi bi-people-fill"></i>
+                        </div>
+                        <div class="ms-3">
+                            <h4 class="mb-0">All Experts</h4>
+                            <p class="mb-0 text-muted">Consulting the entire expert panel</p>
+                            <div class="selected-agent-certification"></div>
+                        </div>
+                    </div>
+                    <div class="agent-header ms-auto">
+                        <!-- Competition toggle will be added here by JS -->
+                    </div>
+                </div>
+                
+                <!-- Chat messages container -->
+                <div class="chat-messages p-4" id="chat-messages">
+                    <!-- Welcome message -->
+                    <div class="system-message">
+                        <h4>Welcome to the IPMDAR AI Expert System</h4>
+                        <p>Our team of 6 AI experts is ready to assist you with all aspects of IPMDAR implementation, 
+                        compliance, data analytics, risk management, and technical integration. You can consult with 
+                        the entire expert panel or select a specific expert from the sidebar.</p>
+                        <p>How can we assist you with your IPMDAR implementation today?</p>
+                    </div>
+                </div>
+                
+                <!-- Input area at the bottom -->
+                <div class="chat-input-area p-3">
+                    <form id="chat-form" class="d-flex">
+                        <div class="input-group">
+                            <textarea id="user-input" class="form-control" placeholder="Ask the IPMDAR experts..." rows="1"></textarea>
+                            <button type="submit" class="btn btn-primary">
+                                <i class="bi bi-send-fill"></i>
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>
